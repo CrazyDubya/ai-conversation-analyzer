@@ -1,0 +1,113 @@
+Most common words for Assistant:
+1: 10108
+2: 7494
+data: 6617
+self: 6526
+3: 6183
+file: 5888
+model: 5516
+user: 4940
+0: 4889
+python: 4644
+text: 4629
+like: 4527
+4: 4274
+import: 4132
+use: 3963
+5: 3837
+system: 3730
+script: 3723
+based: 3624
+code: 3618
+
+Number of unique words: 37194
+
+Most common 2-grams:
+print f: 1042
+python import: 908
+e g: 773
+let know: 734
+__init__ self: 635
+openai api: 618
+would like: 578
+0 0: 565
+make sure: 561
+def __init__: 545
+error handling: 506
+os path: 501
+api key: 468
+user input: 443
+language model: 433
+real time: 431
+input enter: 429
+pip install: 408
+python script: 404
+google colab: 399
+
+Most common 3-grams:
+def __init__ self: 545
+please let know: 335
+os path join: 306
+0 0 0: 286
+yellow vinyl duck: 264
+except exception e: 205
+python import os: 180
+import os import: 178
+ai language model: 173
+x x x: 166
+openai api key: 164
+role user content: 144
+__name__ __main__ main: 140
+gpt 3 5: 137
+response choices 0: 132
+int input enter: 128
+natural language processing: 128
+print f error: 127
+bash pip install: 126
+vinyl duck fairy: 123
+
+Most common 4-grams:
+0 0 0 0: 213
+x x x x: 131
+python import os import: 127
+yellow vinyl duck fairy: 123
+database mongodb language javascript: 114
+mongodb language javascript script: 105
+except exception e print: 102
+response openai completion create: 100
+e print f error: 99
+openai completion create engine: 98
+html doctype html html: 95
+language javascript script custom: 91
+os path join directory: 87
+response choices 0 text: 85
+int input enter number: 82
+exception e print f: 82
+w file file write: 77
+size 1024x1024 prompts photo: 75
+choices 0 text strip: 73
+drive mount content drive: 71
+
+Most common POS tags:
+NN: 482461
+JJ: 219768
+NNS: 154338
+CD: 67343
+VBP: 64357
+VBG: 57786
+RB: 37165
+VBD: 29700
+VB: 28616
+VBN: 25493
+VBZ: 23353
+IN: 16772
+MD: 10796
+NNP: 3801
+PRP: 3437
+JJR: 3316
+JJS: 1795
+RBR: 1679
+FW: 1641
+DT: 1203
+
+Overall sentiment: 0.08925504425656682

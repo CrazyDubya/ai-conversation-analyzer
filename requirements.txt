@@ -1,0 +1,50 @@
+# ChatGPT Archive Analyzer Dependencies
+
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Visualization
+plotly>=5.0.0
+wordcloud>=1.9.0
+plotnine>=0.10.0
+
+# Machine Learning & NLP
+scikit-learn>=1.1.0
+nltk>=3.8
+textblob>=0.17.0
+sentence-transformers>=2.2.0
+
+# Data Analysis
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Database & Storage
+sqlite3
+sqlalchemy>=1.4.0
+
+# Web & Export
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+openpyxl>=3.0.0
+
+# Graph Analysis
+networkx>=2.8.0
+igraph>=0.10.0
+
+# Image Processing
+pillow>=9.0.0
+opencv-python>=4.6.0
+
+# Utilities
+tqdm>=4.64.0
+click>=8.0.0
+python-dateutil>=2.8.0
+pytz>=2022.1
+
+# Optional: Advanced Analytics
+# umap-learn>=0.5.0
+# hdbscan>=0.8.0
+# transformers>=4.20.0

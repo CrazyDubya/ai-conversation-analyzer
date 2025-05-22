@@ -1,0 +1,113 @@
+Most common words for User:
+self: 6283
+1: 4655
+n: 3917
+0: 3763
+2: 2979
+model: 2971
+file: 2617
+end: 1915
+return: 1899
+text: 1890
+print: 1839
+def: 1831
+name: 1722
+content: 1688
+user: 1663
+3: 1589
+id: 1581
+f: 1490
+import: 1481
+output: 1463
+
+Number of unique words: 22276
+
+Most common 2-grams:
+users puppuccino: 853
+py line: 621
+n n: 616
+print f: 557
+file users: 557
+__init__ self: 455
+https api: 452
+2 2: 441
+puppuccino pycharmprojects: 429
+otp 26: 406
+26 2: 406
+otp otp: 405
+puppuccino anaconda3: 380
+00 00: 375
+anaconda3 envs: 373
+content type: 351
+lib python3: 337
+openai com: 328
+role user: 327
+api openai: 325
+
+Most common 3-grams:
+file users puppuccino: 557
+users puppuccino pycharmprojects: 428
+otp 26 2: 406
+26 2 2: 406
+otp otp 26: 405
+users puppuccino anaconda3: 375
+puppuccino anaconda3 envs: 372
+api openai com: 319
+https api openai: 316
+openai com v1: 316
+00 00 00: 313
+role user content: 304
+def __init__ self: 297
+2 2 bootstrap: 282
+2 bootstrap lib: 277
+lib python3 10: 273
+python3 10 site: 249
+10 site packages: 249
+beam otp otp: 248
+â â â: 244
+
+Most common 4-grams:
+otp 26 2 2: 406
+otp otp 26 2: 405
+users puppuccino anaconda3 envs: 367
+https api openai com: 316
+api openai com v1: 316
+file users puppuccino anaconda3: 294
+26 2 2 bootstrap: 282
+2 2 bootstrap lib: 277
+00 00 00 00: 259
+lib python3 10 site: 249
+python3 10 site packages: 249
+beam otp otp 26: 248
+file users puppuccino pycharmprojects: 243
+content type text text: 211
+puppuccino anaconda3 envs pythonproject4: 195
+â â â â: 180
+anaconda3 envs pythonproject4 lib: 166
+envs pythonproject4 lib python3: 166
+pythonproject4 lib python3 10: 166
+gpt 3 5 turbo: 161
+
+Most common POS tags:
+NN: 192250
+JJ: 75174
+NNS: 43520
+CD: 36353
+VBP: 26471
+VBG: 11788
+VBD: 11339
+RB: 10113
+VB: 8173
+VBZ: 6590
+VBN: 6213
+IN: 5086
+PRP: 3189
+NNP: 2933
+MD: 2139
+JJR: 846
+FW: 776
+JJS: 531
+DT: 448
+RBR: 417
+
+Overall sentiment: 0.062162491856755285

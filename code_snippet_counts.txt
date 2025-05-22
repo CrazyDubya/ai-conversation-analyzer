@@ -1,0 +1,2708 @@
+Code Snippet Counts by Language for Each Conversation
+==================================================
+
+Conversation ID: 3c6c4fbb-150e-4081-afa0-faf873b909ff
+  JSON: 1
+  Other: 2
+  Python: 4
+
+Conversation ID: c02a08b0-d0c5-4090-8369-fbf9178fa38b
+
+Conversation ID: fd606a35-08d4-494f-8797-c8c116caf9c6
+  Shell: 6
+  Python: 2
+
+Conversation ID: 5f5769f8-04f8-4881-ab65-92413543295b
+
+Conversation ID: b6b3e477-5a9a-40b1-9fda-f2f3c71e890b
+  Python: 3
+  Other: 2
+  HTML: 1
+
+Conversation ID: 4179e88f-7ca7-4b42-84ee-c9e0c6f26878
+  Markdown: 6
+  Other: 4
+  Python: 1
+  R: 1
+
+Conversation ID: 7c21b467-e02d-444b-b44c-3913b2e410cb
+
+Conversation ID: 464fa4a1-f9ef-410f-ac36-e6bc8e77828b
+  Other: 78
+  Shell: 5
+  Bash: 4
+  JSON: 2
+  Markdown: 81
+  JavaScript: 3
+  Python: 15
+  YAML: 15
+
+Conversation ID: d85b6b8d-b0b9-48df-98e2-d7fe38e82b17
+  Python: 2
+
+Conversation ID: 0c4f0baf-3091-45e1-a8be-0f0e90a02c8a
+
+Conversation ID: 1439900c-55be-4cdf-915b-9e889595a949
+
+Conversation ID: 2c113b43-4b80-4067-8286-961c2b1120f3
+  Python: 11
+
+Conversation ID: 08cca118-d435-4d07-9302-5f6d2934b77b
+  Python: 61
+  Shell: 28
+  Ancient: 9
+  Markdown: 7
+  Bash: 3
+  Other: 1
+
+Conversation ID: 7e756327-8bf1-49d2-93e2-698c519b9df2
+  Python: 41
+  Bash: 5
+  Other: 2
+  Markdown: 1
+  Ancient: 1
+
+Conversation ID: 8fafdaa6-cb56-48db-96fe-0cb0e69b3ae0
+  Python: 16
+  HTML: 5
+  Markdown: 9
+  Other: 17
+  Shell: 2
+
+Conversation ID: b595b457-a112-486d-b6f0-f125094dd518
+
+Conversation ID: 972714f2-76da-4417-b8b7-dcc5640e44af
+  Python: 1
+
+Conversation ID: 05437463-9560-4773-be1b-29df34b4afad
+  Other: 16
+  Python: 27
+  CSS: 2
+  JavaScript: 3
+  Shell: 6
+  HTML: 12
+  YAML: 3
+
+Conversation ID: 5ad15a14-1da3-4b60-a5b8-88c541cf2cd6
+
+Conversation ID: bccc06ea-ad77-45d4-ade7-6de4e64b57e7
+
+Conversation ID: 8089f997-5fb4-4efe-964c-082f5b5e172c
+  Other: 24
+  Python: 9
+  HTML: 1
+  JavaScript: 3
+  Markdown: 2
+  Ancient: 2
+
+Conversation ID: f2eef34b-c2f0-41e2-96a6-6e322dd07b03
+  R: 2
+  CSS: 1
+  Python: 4
+  HTML: 4
+  Other: 2
+
+Conversation ID: 2d4def21-af8b-4169-b668-a88423fe78dc
+
+Conversation ID: 259f1394-7eb7-45a1-b234-e7c3556d159c
+
+Conversation ID: 1af37cf9-5729-4eea-b18c-5085482ece91
+  Python: 2
+  Markdown: 2
+
+Conversation ID: f96d3c01-ca49-43f6-acb8-075b5dd64cf1
+
+Conversation ID: b5dbda12-95ab-4e43-8963-cc36b30a9f6f
+
+Conversation ID: 4fff4742-d308-4513-98a8-9453ca823d5b
+  Python: 2
+  HTML: 1
+  Other: 2
+
+Conversation ID: c64c87c4-d53d-48cc-badf-b20bc0f0e520
+
+Conversation ID: 4eaa7761-9a4e-4be3-9d1a-e494e4d70c85
+
+Conversation ID: f5e71e43-f8fe-4180-830d-bb91e199632d
+  HTML: 7
+  Python: 7
+
+Conversation ID: 14d68c86-6bbb-4ec7-b3a0-4f3bb090e9a5
+  Python: 1
+
+Conversation ID: 83d15099-d3ae-4d8a-b56b-15440de380e0
+
+Conversation ID: 9ab951de-cb42-40a9-8cec-7aac730af029
+
+Conversation ID: 5b1a79c5-6232-4be4-92a9-9a1f708714e4
+
+Conversation ID: ccdf0fee-e2a4-44e8-8b82-5d0416729a36
+
+Conversation ID: 0f9fb30a-9545-41b2-807a-b12b50fd9f91
+
+Conversation ID: 36f76e78-0965-47c9-8d8f-4b345152c865
+  Python: 12
+  Markdown: 3
+
+Conversation ID: 4ed53065-1c65-43a9-a0d6-124a66bf5017
+
+Conversation ID: 40eba740-fad4-46dc-9dd8-19f3af156153
+
+Conversation ID: 14f54da9-4c6d-4f1a-8b18-e44e18d32fe4
+  HTML: 4
+  Other: 18
+  Bash: 3
+  Python: 4
+  Ancient: 1
+  TypeScript: 1
+  JavaScript: 4
+
+Conversation ID: 1e9da080-bb37-499f-9eed-4b5fa9f35401
+  Python: 1
+
+Conversation ID: a85c3cc0-8b0b-46db-ba16-c6ed6261173c
+  Python: 3
+
+Conversation ID: b0316e13-eb6f-4f5a-848b-d9ad91e555c2
+  YAML: 1
+
+Conversation ID: 765b4ee2-32c3-4a5b-8a0d-be72861aea3b
+
+Conversation ID: e6e2bfe4-3fff-4fc9-8760-2ccca67fdeb6
+
+Conversation ID: a4732ee3-ac79-4bda-9111-516b7dc3567e
+
+Conversation ID: 98411bbe-7249-4299-bce6-342eb95a0e92
+
+Conversation ID: c893c238-ddab-466f-9b9b-5e63dbf30f1c
+
+Conversation ID: 030aa01a-4c77-4157-8ea8-3aca9a7d959e
+
+Conversation ID: 6c0807a5-9fbd-4464-8293-305ce87926b5
+  Python: 24
+  HTML: 4
+  Other: 2
+
+Conversation ID: 485eb090-4523-471c-bd18-a8a267af8c7d
+  Python: 21
+  Other: 59
+  Markdown: 8
+  HTML: 12
+  Bash: 2
+  Shell: 9
+  Java: 1
+
+Conversation ID: a97c08b5-166a-489d-b2b5-3ef546a0d91c
+  Python: 3
+
+Conversation ID: 37aa9adc-90f7-4b1b-8bb3-0f2555a259a0
+
+Conversation ID: 7b64409f-b553-42af-89fe-0c15ce462183
+  Python: 12
+  Other: 9
+
+Conversation ID: b1c39ac1-029d-4323-ae40-7b28584cbe7b
+  Other: 3
+  Python: 2
+
+Conversation ID: 2fdddeaa-a20f-4b12-8bbc-00c895334770
+
+Conversation ID: 5e285917-5e8b-416f-8e84-33c3f1d1e282
+  Python: 1
+  Other: 1
+
+Conversation ID: 3a780c1a-e4b6-4190-a121-049009b1fb94
+
+Conversation ID: ccef72bc-72ce-402f-aca0-bb1ce31b27dd
+
+Conversation ID: 9a9a6732-08b4-4a9c-b942-55690ea9fcb0
+  Python: 3
+
+Conversation ID: ff7af084-429d-4071-98c7-5fb26e55b8d1
+  Python: 1
+
+Conversation ID: f90c297c-de5a-40ef-a6a1-87697c45722f
+  Python: 7
+  Markdown: 1
+
+Conversation ID: f8f84ce8-aa87-41d3-94fc-b4017163e620
+
+Conversation ID: 73374cf1-0607-4895-bf39-34f0b09437f4
+  Python: 11
+  Other: 49
+  Shell: 6
+  Markdown: 2
+
+Conversation ID: 3a15b5c9-1860-4170-ae99-185228fcb741
+  Python: 1
+
+Conversation ID: 3cd7cc10-c312-424f-b98f-96a6b3f46af4
+
+Conversation ID: 54619f0b-a129-4eeb-8582-7b25e8c3addb
+
+Conversation ID: f5d3596d-ad22-4930-a1e3-151a6f7408ff
+  Python: 7
+
+Conversation ID: f1737a3d-53f2-4732-ae98-b783f48f0a7a
+
+Conversation ID: 0ec1261b-c60d-4b7e-bd11-6e913c7cc2f1
+
+Conversation ID: 038d1ffa-cb34-4be1-819d-62e8c05f0a95
+
+Conversation ID: 535421c3-a94d-4444-b001-7e6ce2520660
+
+Conversation ID: 90690a97-b306-4013-a031-c30d112154a6
+
+Conversation ID: ea66aaa6-6788-4449-b645-966516730754
+  Other: 12
+  Python: 6
+  CSS: 2
+  JavaScript: 4
+  Shell: 1
+  Markdown: 5
+  Bash: 1
+
+Conversation ID: a1bb0cab-4df5-4622-a16a-0a452e65831b
+
+Conversation ID: 9fca9ae4-0038-4bd8-ab9f-e9c63992aa47
+  TypeScript: 1
+
+Conversation ID: c951a698-7c17-4e06-9f72-7108afbd0d07
+  Bash: 2
+  JSON: 1
+  Python: 29
+  Other: 1
+
+Conversation ID: 8316a6fe-8783-41f8-8288-77ae0a556a2f
+
+Conversation ID: f888a13c-9bdb-45ba-ad9c-e73b32496bc0
+  Markdown: 1
+  Python: 36
+  Other: 4
+  Bash: 2
+
+Conversation ID: 312158b4-0df3-4cf8-906d-357fec5bb5fc
+  Python: 3
+  HTML: 1
+
+Conversation ID: 8d057284-b8c1-40f0-94c8-cfe84fc84bd9
+
+Conversation ID: 2582bb3c-1ae6-436a-a685-0867608f7629
+
+Conversation ID: 66128183-e522-46e3-9a8c-cef53dbda868
+
+Conversation ID: 106803b8-0947-45d1-87a5-53fbe840195d
+
+Conversation ID: 557ff152-eb39-4e71-b72e-f816f14e598d
+
+Conversation ID: 028a7698-4406-4563-98f0-6610e797bef1
+
+Conversation ID: 7d9ae0f7-a270-4065-b09c-3c59242073ac
+
+Conversation ID: bf554e07-b883-41d0-a1c8-9efb2d821cf6
+
+Conversation ID: 63f98a34-e123-48bd-a6f6-8d2573a96b0b
+
+Conversation ID: a6d5db14-127a-42f3-99d2-3d9745dec6c6
+
+Conversation ID: 0183cac2-9ece-4853-bae4-f0653bc128b9
+  Other: 6
+  Python: 3
+  Markdown: 1
+
+Conversation ID: 19b4ebe2-05de-4733-ac63-4a53d14772c5
+
+Conversation ID: f31a64ba-d24b-427d-a218-ba9120840cbe
+
+Conversation ID: 9ab6486a-d887-433c-be73-05b68ad3e453
+
+Conversation ID: 3d3092f6-8d6e-4419-9c43-0d7b3d78b34d
+  HTML: 1
+  Python: 7
+
+Conversation ID: 33fa122f-b33c-4d90-8b53-387c3bb72c02
+
+Conversation ID: e0f5cc08-48ef-41ab-be57-15473cf60ee9
+  Python: 31
+  Ancient: 1
+  Other: 1
+  Markdown: 4
+  JavaScript: 1
+  HTML: 3
+
+Conversation ID: 323558d1-92ff-4ae7-a588-12a6380ea827
+  Python: 21
+  Other: 2
+  Bash: 2
+  JSON: 1
+  Markdown: 1
+
+Conversation ID: 2441aca7-5ecc-41e6-a1a8-1778572a594f
+
+Conversation ID: e1037aa9-1af6-45e4-a2a5-5e5b860d9202
+
+Conversation ID: 5e77aa7d-2951-46ae-807d-a4309fb352b9
+
+Conversation ID: 869e2175-865e-4b30-8ed9-e03bf52c0735
+
+Conversation ID: 7698a869-860b-4aa8-a14b-56d5dba79d98
+  Python: 1
+
+Conversation ID: 914ec368-1ed0-4733-bfd8-213ae493dbfc
+  Python: 4
+
+Conversation ID: 694e6f46-3444-4576-93ed-1572bbeebde9
+  JSON: 1
+  Python: 6
+
+Conversation ID: aebe294c-067c-45aa-bf08-50f8f643a9a7
+  Python: 2
+
+Conversation ID: 85349040-7eb3-44c9-9208-10f3818f8280
+  Other: 3
+  Python: 4
+
+Conversation ID: 1c19b614-934b-49d1-ae1c-641e7ba70343
+  Python: 10
+  Other: 4
+
+Conversation ID: b8f6514f-6c46-4628-824f-a9f750564f99
+
+Conversation ID: c882254c-76d3-4d16-acf2-8f739f540884
+
+Conversation ID: 2c9dae80-e156-454b-bec2-182db9a10835
+
+Conversation ID: 99856b27-8bee-4263-90f2-6dbf27662dcf
+  Python: 3
+  Shell: 1
+  Markdown: 1
+
+Conversation ID: 7df32416-b6b5-49ae-950b-dfb54ca34516
+  Python: 1
+
+Conversation ID: 5c862980-8efb-40b3-af7b-497a5a4af9fd
+  Python: 1
+  Go: 1
+
+Conversation ID: da8e4c91-2460-4737-9345-bb9160f0bca9
+
+Conversation ID: 18c63dd5-facd-4db0-9540-3ac75728f907
+
+Conversation ID: ec3621b4-5afa-4b23-ae09-440e978a1c8f
+
+Conversation ID: 91d91ca4-e801-4a0b-9d83-aab163c22e2a
+
+Conversation ID: 2edafffc-216f-4471-8a68-8c6b43715ee9
+  Other: 2
+
+Conversation ID: b1439af7-edf7-4bb2-95ee-c918d5d982eb
+  Python: 2
+
+Conversation ID: 694da179-c95f-4201-a2d0-b20e2f51471f
+  Other: 1
+
+Conversation ID: 0ec739f8-c7bc-4206-af6a-1dc75eda77c9
+  Python: 1
+
+Conversation ID: c81eb811-48a3-410d-87ee-5d022e84969c
+  Python: 1
+  R: 1
+  HTML: 1
+
+Conversation ID: f418f503-bbf3-4c78-8854-a105d5445873
+
+Conversation ID: 8e243726-7626-4f19-a7a7-b6176376617a
+
+Conversation ID: 1e3c6f93-528c-43f4-881a-f8ef39acadb3
+
+Conversation ID: 4b2d5a1a-701f-45f0-9840-fcbb3c95665a
+  Other: 2
+  R: 1
+  JavaScript: 4
+  Bash: 1
+  Python: 3
+  Markdown: 1
+  Shell: 5
+
+Conversation ID: bc51f3c3-9acf-41df-b67d-ebb2db333baf
+
+Conversation ID: 0375ee7c-ae11-4e14-9290-18152316db85
+  Python: 6
+
+Conversation ID: 214a3ccc-5677-4de4-9a21-903be220c00d
+
+Conversation ID: fb1b3acd-1010-46d2-943d-caa759e3816c
+  Python: 2
+
+Conversation ID: 2614e60a-3a7f-4393-8772-1b9af5a9f4de
+  HTML: 1
+  Python: 2
+  Other: 1
+  JavaScript: 1
+  Java: 1
+
+Conversation ID: eb217508-d863-4be7-a591-dd46e6853d57
+  Ancient: 1
+  Other: 5
+  Shell: 1
+
+Conversation ID: af400aa2-e7f6-4fdd-82f4-e24ff7254a16
+
+Conversation ID: f512e191-d75f-4878-8bb6-625b93da97d9
+
+Conversation ID: 8c26cc41-7464-4a35-b0d1-c208c110185f
+  Python: 1
+
+Conversation ID: 7c4761c1-ba5d-4584-80db-9e338630b6dd
+  JavaScript: 1
+
+Conversation ID: 4e615277-0f27-453e-8437-1eb6b012781f
+  JavaScript: 1
+
+Conversation ID: 96898226-33ca-49f7-82eb-4f0c7d08769c
+
+Conversation ID: fec7e4bd-e7d2-4e42-be94-0f4316e8e82c
+  Python: 8
+  HTML: 6
+  JavaScript: 14
+  Other: 1
+
+Conversation ID: 9de5b88b-06ab-464c-b68f-63848f8aa666
+  Shell: 1
+  Other: 1
+  Python: 1
+
+Conversation ID: 969c6df7-d70c-4294-b37a-d316edae077b
+  Python: 2
+
+Conversation ID: 7f47dc35-cfa7-4dd7-90bf-9025a72f1e02
+  HTML: 1
+
+Conversation ID: e8037a30-f61c-443f-ae81-11a1f3ddeca6
+  Other: 8
+  Python: 33
+  Shell: 1
+  Markdown: 1
+  Bash: 1
+  HTML: 3
+
+Conversation ID: 7fb6eb9e-01c7-4464-9031-ddca12709b5c
+  Python: 2
+
+Conversation ID: f0f37ce7-5a52-4dd0-9e35-3b2fefb076df
+
+Conversation ID: abca8241-f742-4e9e-8d85-c952230036b6
+
+Conversation ID: 834bda8b-a5c8-4ac2-a64e-d72615ba2a7e
+  HTML: 2
+
+Conversation ID: 9616f723-e405-45b4-a0f8-cd5627000841
+  Python: 35
+  HTML: 9
+  Other: 19
+  TypeScript: 1
+  Bash: 3
+  JavaScript: 1
+  Markdown: 7
+  Shell: 2
+
+Conversation ID: ad6c5e77-9505-47eb-9fdc-49fe78134699
+
+Conversation ID: d8b9be32-4f68-4b6e-9b0f-ebee4bb46d12
+
+Conversation ID: 7378fa34-ba4a-4b3d-951e-5290e5315b0f
+
+Conversation ID: c020c9ea-8d93-4d3e-9a36-086a5322ac9c
+  Other: 8
+  Python: 39
+  Markdown: 5
+  JavaScript: 1
+  Bash: 5
+  HTML: 7
+
+Conversation ID: 470fa45e-4713-4ed4-9e7c-3ae225ecffb6
+
+Conversation ID: 11f3f79e-a936-40bc-8430-456905807d5d
+
+Conversation ID: 79d35b45-bad5-403f-97c0-2f7b951a9a77
+  Python: 20
+  Other: 1
+  Markdown: 2
+  HTML: 2
+  JSON: 1
+  Shell: 1
+
+Conversation ID: 3a723ece-42b2-4534-b0b2-ef38e5ab2720
+  Python: 24
+  Markdown: 6
+  JavaScript: 2
+  Other: 14
+  Shell: 3
+  Ancient: 1
+  R: 1
+
+Conversation ID: be1b35dd-7a99-46a3-9c66-4729dd967cd9
+
+Conversation ID: c575319c-87f8-4a5f-9095-82e41efe2fdd
+
+Conversation ID: 8a7c6e58-aa47-4dff-bf6c-557fedd789df
+  Python: 3
+
+Conversation ID: 32dc00df-4d9c-4f39-8cc7-2f5368f5f1b0
+  Python: 3
+
+Conversation ID: 24b44bb1-22a1-4442-8ff0-4ee07235a757
+
+Conversation ID: 0e5d049f-b735-403e-a8a7-1118f21b8ace
+
+Conversation ID: 78b6c4c0-874a-4dcb-9563-4d97f4e77243
+
+Conversation ID: 07755c6a-cb5e-4a26-8e70-f8f8a7a0b49e
+  HTML: 1
+
+Conversation ID: 3035375b-c2de-439b-b21f-4edbe138b600
+
+Conversation ID: a9788771-84d1-4901-8bca-e537f220b727
+  HTML: 1
+
+Conversation ID: 76ba802f-2180-4f44-93ec-5456066c4c97
+
+Conversation ID: 1e6b22f7-4354-45ab-ac11-a61a4d7d4900
+
+Conversation ID: b7062c4d-1d06-4fe4-b7ef-11a985b3a440
+
+Conversation ID: 08c2c2e9-ec78-4b69-a611-f6a663ae7863
+  Python: 1
+  HTML: 7
+
+Conversation ID: afcd41f5-4918-4635-a746-a34c469fac4c
+
+Conversation ID: e4d6788b-37e5-4480-9f80-d5517762e66e
+  HTML: 4
+
+Conversation ID: eb211406-117e-4a71-b362-efc4d49794f9
+
+Conversation ID: b1b35040-a97f-4a90-bca5-071d9e5a89ec
+
+Conversation ID: ea6664cc-86a8-4cda-a805-e4c91dcc053d
+
+Conversation ID: 1b22dafd-f4a7-4d67-be68-ef081396724a
+
+Conversation ID: 123a481d-24f6-46e9-a61a-5782e2b1bc07
+
+Conversation ID: 2ddfa5b1-c616-44ed-9811-bad981368fd5
+  Python: 1
+
+Conversation ID: 0e08a0c4-4560-4307-83bc-800474a5abe3
+
+Conversation ID: 22e560f7-ba34-4172-bab7-92d1156e9196
+  Python: 1
+
+Conversation ID: 5f48bce3-75f1-458d-a38d-1c631e1c270c
+  Python: 8
+  Shell: 2
+  Other: 3
+
+Conversation ID: b453d987-0727-4957-8d8a-5e87bad166af
+
+Conversation ID: 7adced38-3693-44a5-85a0-954f8740c038
+
+Conversation ID: f6ffee2b-dd6e-4cc9-baab-af474af04eb2
+
+Conversation ID: c7b9c4cf-646c-4c70-b279-170ffa924f50
+
+Conversation ID: 68ef3927-0b8f-48e0-b667-5dc5a8fb40c6
+  HTML: 4
+
+Conversation ID: ee02eeef-d4c5-4175-8de3-7d5e678bebf3
+  HTML: 7
+
+Conversation ID: 2fa71456-d988-4caf-ad1c-dea2f3b32487
+  HTML: 2
+
+Conversation ID: d67b3e7d-3610-440e-a9f0-6b15731279d5
+  HTML: 6
+
+Conversation ID: 174ac9b8-d510-4e87-b53f-8cc4a42299be
+
+Conversation ID: ebf2ce05-c52c-4f48-bd31-d26755ba57c0
+
+Conversation ID: 11fed54b-5f11-419e-94c7-ea47de60c868
+
+Conversation ID: 1ecf0473-25ce-4c6f-95ce-d91c4ac86066
+
+Conversation ID: 43bec518-3a2b-47bc-8cdb-201d6c1047fa
+  Shell: 1
+  Other: 20
+  Python: 5
+  HTML: 1
+  Markdown: 1
+
+Conversation ID: 041c46d5-7c5f-4f0a-b74e-6c2eede070ba
+
+Conversation ID: 24b7fe7a-1aca-47fa-8a9d-4303205f1325
+  Python: 5
+
+Conversation ID: dfa21b49-8bbd-4172-af98-3f2dc6c23ef2
+  Python: 10
+
+Conversation ID: bd100f51-3822-40de-88d4-de234830db76
+
+Conversation ID: ef55efbd-d121-4ca6-8b7e-62721cebcced
+
+Conversation ID: faf7950f-3c80-43e5-99c4-1fd829d51534
+  Python: 9
+  Bash: 1
+  Shell: 2
+  HTML: 1
+
+Conversation ID: bb7a567a-5a89-4054-8fda-8e92f298e1be
+
+Conversation ID: efe96ce3-7b2c-441c-bcc5-25ca21110907
+
+Conversation ID: 8e87239d-24bb-4fcd-bd3a-092a6ef48313
+
+Conversation ID: 6d1a9382-9356-4f10-a55e-10554328653a
+
+Conversation ID: 0c456bb7-3ca2-4877-8232-6841a6770749
+
+Conversation ID: b0f1805f-234d-4976-9a07-a89dbee06b7d
+  Python: 2
+  HTML: 1
+
+Conversation ID: b00f232c-c1f4-449b-8114-6681161dff57
+  Other: 18
+  Bash: 1
+
+Conversation ID: 26c0616b-0d4b-4d8b-b5cc-7db48765975f
+
+Conversation ID: 559b627a-49de-4409-9dae-cf697efc9946
+
+Conversation ID: 9e516f0d-b6c0-4909-88af-123b14f3a028
+  HTML: 2
+
+Conversation ID: 202dfe5a-1ef0-4f9f-b0c4-6e6bb458ae00
+  Other: 4
+  JavaScript: 1
+  Python: 1
+
+Conversation ID: fe1211d3-3f29-4ba3-8dba-a57851ff6bfd
+  Other: 38
+  Shell: 32
+  HTML: 2
+  Python: 2
+
+Conversation ID: fd29fff6-4527-42d3-9122-040cfa869635
+
+Conversation ID: b08ee6de-6b03-43ac-af76-93c42c8bfe14
+  Python: 8
+
+Conversation ID: a9a8c5e4-e6fe-47a0-8ea6-2563345cf34b
+
+Conversation ID: 58cccf41-06b5-47af-815d-bc61ed1be8b5
+
+Conversation ID: fdb33c80-a2a4-4b48-a286-41de75ce64ee
+  Python: 8
+  JSON: 1
+  Markdown: 1
+
+Conversation ID: 6ceb58a9-d35c-4004-92dd-f01f6086a238
+
+Conversation ID: 10954312-9f0b-4b6d-a8fb-6b0348c6b734
+
+Conversation ID: 3e6033aa-b3b4-4726-822d-905849256f4e
+
+Conversation ID: 9c63d9f1-c1be-452e-9d66-4bd531fc2d69
+  Python: 3
+
+Conversation ID: fc1a78c6-285a-47bd-9fc0-2ad7e82258b1
+  Python: 2
+
+Conversation ID: 9571ca3a-a48e-4590-a4df-b315594a0193
+
+Conversation ID: 33cf2d66-fdf5-48f7-9622-719a2e70195d
+
+Conversation ID: 2771467c-b438-4df5-b441-3d072ab9a55b
+  Python: 11
+  JSON: 1
+
+Conversation ID: 53d708d5-3c1d-42c4-8e5b-5df63128e683
+  Python: 1
+
+Conversation ID: b85c8d8b-1c76-4ab7-b4b3-45a01ecbe2f4
+  JavaScript: 1
+
+Conversation ID: 281961c5-9b19-4d99-89d8-99317d2461df
+  Other: 2
+  Python: 4
+
+Conversation ID: 14bc2e67-2582-4297-bb39-b83c1da7c25d
+
+Conversation ID: 55635b5b-e6d2-40b3-9cd4-df67e68463a2
+
+Conversation ID: 146d92bb-5a68-4585-8657-3a39125965de
+
+Conversation ID: d83c35eb-581e-463a-82e8-bc3155bd1cfa
+
+Conversation ID: 6bf4fab7-2a1b-44c0-967a-3dff626c3667
+
+Conversation ID: da808acd-4e1b-4e63-9b8e-ac04954f2e58
+
+Conversation ID: 7999f6f6-8502-4533-bc06-b97b08f01225
+
+Conversation ID: 33cbf04d-2c66-4fa1-8691-9b5071431887
+
+Conversation ID: 046def6c-f151-4fc0-b314-2915214a7a2b
+
+Conversation ID: 8b71f4bc-b874-400f-b3f1-86c4870e76a3
+  Bash: 1
+  Markdown: 1
+
+Conversation ID: 06373736-a42c-4429-a3f9-d27880326d4b
+  Python: 9
+
+Conversation ID: 4c10ccc3-5ab5-48c2-bcc0-dc80d54c160d
+
+Conversation ID: 0fb1f542-e22b-48a0-9c7a-c5b8ff173fb6
+  Other: 2
+
+Conversation ID: 94868119-295e-43b5-bc0b-8cfa10f1cbbd
+  Python: 3
+
+Conversation ID: a9e8ad53-9305-4ecc-8d48-58b5c7dabe83
+
+Conversation ID: 4227520f-e622-4589-8818-2eb735a337fd
+  Python: 1
+
+Conversation ID: 7e7bbeb4-9f18-4487-8d8b-2707b9b19290
+
+Conversation ID: eeca96f7-6646-4e9a-b172-0b2e8848368e
+
+Conversation ID: de941afc-a9db-42da-8baa-a5404c060b6b
+  Python: 1
+
+Conversation ID: b3fefc9c-db12-402b-9f0e-d6b4f19f2fb4
+  Python: 15
+
+Conversation ID: 08b1ee94-d82e-4686-a75d-ac9f856fc5a4
+
+Conversation ID: 95a4eecd-2689-4370-a8a2-fa5a4b854b4f
+
+Conversation ID: e4b4d4e7-1f03-4baf-aa11-9679c8273602
+
+Conversation ID: c2fb2f3c-1926-4ce2-9599-64fea1e393dd
+  Python: 2
+
+Conversation ID: 7d3b5cbe-bd91-4af3-b081-3ea86cdac40e
+  Python: 6
+  Shell: 1
+
+Conversation ID: 67e05423-31f8-47c1-9600-c731b47a7daa
+
+Conversation ID: 4a11daca-0110-4e92-9455-27a79019e4de
+
+Conversation ID: 931ae28c-5a44-4ef6-a53f-5786a0d44398
+
+Conversation ID: 5e29526b-dddd-46d6-ab9e-78a4a8218135
+
+Conversation ID: bda4e240-0419-4377-a7d1-6aba35a93ad9
+
+Conversation ID: b29b7476-44fb-45af-af76-9e085c8f7329
+
+Conversation ID: 621260b7-2728-40e4-a1a5-71465335a6a5
+  Python: 2
+
+Conversation ID: 2429c41c-8060-4699-b994-3a17cf79fe3a
+
+Conversation ID: 68546e40-5a7c-40e9-a1f2-fe76618db87e
+
+Conversation ID: 30f45cde-ff42-48e9-b56e-b5a21545101b
+  Python: 3
+
+Conversation ID: e20bd37b-df28-4cab-9dda-5d2562efb1a7
+
+Conversation ID: b55f6410-5806-4901-865d-bfdc784b1bef
+  Python: 2
+
+Conversation ID: e320697b-3218-4782-b8bc-9724de3e4425
+
+Conversation ID: 97e2ef66-cd41-43de-ad2d-31e24c235c59
+  Other: 3
+  Python: 2
+
+Conversation ID: a65b5080-fa8a-48ba-bb2c-4563cd3d6f7b
+
+Conversation ID: f9b97856-b9c7-4b4d-bc02-cb849898efd8
+
+Conversation ID: 709ae8e7-aeb9-4733-bfed-e8ce845147d4
+
+Conversation ID: 7eed5253-2201-4cb2-85a0-6483c4ffd1d5
+
+Conversation ID: 99ad8295-30b2-46f3-8128-6c696dcb0045
+
+Conversation ID: f507e853-0f02-4c48-a7fd-8c3d03335a87
+  Other: 2
+  Python: 2
+
+Conversation ID: c315b7fd-48f4-43f1-a4b8-986f5db7bcba
+
+Conversation ID: e8fca1a1-47b1-489b-84a2-65660071720d
+
+Conversation ID: 00b95428-bd0e-4bc0-9b1a-fa31b05c3edb
+  Other: 2
+
+Conversation ID: 39508533-4591-4261-abd4-abd0ab7a17f8
+
+Conversation ID: b23f8ea9-76f2-4766-a0ff-8c431a1724c3
+
+Conversation ID: 7b5570d8-6251-4f1c-b792-11951affee31
+
+Conversation ID: 74a6ba01-71d0-4366-93f5-33a8a3c41926
+  Python: 1
+  Other: 1
+
+Conversation ID: 134a044d-5e78-42f3-9b7a-2c1a6ad9f9e1
+
+Conversation ID: d156b42f-02db-4de2-bd2c-5d94a09adc82
+
+Conversation ID: fc32ac66-9b83-42c1-b0c3-3cdd3ff057bc
+
+Conversation ID: 7e7bdbf8-d4ef-4696-a427-7027ccd58cd1
+
+Conversation ID: e4e3c9c3-6227-4b27-ab85-b7e67964d27a
+  Bash: 1
+
+Conversation ID: cb0d2a46-f3f6-452f-9939-c2e210190297
+  Other: 2
+  Shell: 1
+  Python: 4
+
+Conversation ID: d59e9d1b-f2ca-4262-baca-5588c86d3fc3
+
+Conversation ID: 8f07c6b9-5a9e-4505-8ff6-dc98796e490a
+  Other: 1
+  Python: 1
+
+Conversation ID: aa0fef98-e158-454f-ba9c-2050f8c6421a
+
+Conversation ID: 205ec2d1-e75f-49a3-9470-d10432b57198
+
+Conversation ID: 118a9655-5e9d-4fd1-9dd6-01e4986e9c3c
+
+Conversation ID: 8d5fe9c7-db8b-48b5-a19f-838aea89dcdd
+
+Conversation ID: 49e12efa-526d-4963-b49a-cc564c427f25
+
+Conversation ID: a71f361c-e4a3-4ef8-921d-a33b543219aa
+
+Conversation ID: a79e83d4-797b-4549-93c5-76efe6a71e39
+  Other: 1
+  Python: 1
+
+Conversation ID: 5c6ca190-5ac7-4cae-86b5-dfb2646d71d1
+
+Conversation ID: 4319ab9f-672f-4ece-9895-0f51ef2bc821
+  Other: 6
+  Markdown: 2
+  Python: 3
+
+Conversation ID: 3c196da4-5bff-4ef7-82aa-72398254c20c
+  Other: 5
+  Python: 15
+  Bash: 1
+
+Conversation ID: d8106a20-66a5-4a5d-87ba-1da8323acfb9
+  Python: 5
+  Other: 1
+
+Conversation ID: d56de88f-eccc-447b-9a12-487b1ef90c2d
+  Python: 11
+  Other: 1
+
+Conversation ID: aea02636-d656-41c5-ba85-30cf952061e9
+  Python: 31
+  Other: 3
+  Markdown: 2
+  JSON: 1
+
+Conversation ID: 497d02a4-dce9-46d5-b5aa-b3cd5f7c635a
+
+Conversation ID: be3fa887-9f65-4f4d-bb13-d0682fa5ea7c
+
+Conversation ID: 52ce3d03-bf23-41a4-ad6c-9917de932de8
+
+Conversation ID: 9de06c61-42f3-494d-9a90-d3d936ef220b
+
+Conversation ID: a0209aab-30e1-49a6-8314-1c33c2a5e2c5
+
+Conversation ID: ed8ee0c4-88a6-436a-b824-94170d98d57e
+  Python: 2
+  CSS: 1
+  JavaScript: 1
+  Other: 3
+
+Conversation ID: a30b249b-ed95-4cd4-9eb3-bd0f530d9de4
+  Python: 1
+
+Conversation ID: 4b734265-77cd-4f5f-b41e-c380fdd5a572
+  Python: 6
+  HTML: 1
+
+Conversation ID: 0a92f4a0-b005-4bb6-8870-8fd868e5e6d9
+
+Conversation ID: 38a2dc08-83c2-45cf-8b91-9ec2459ccaf5
+
+Conversation ID: d924e9a2-4203-4c07-a37d-87d84855f056
+
+Conversation ID: c7e14ceb-736c-46c0-876d-b3248f6b8a36
+
+Conversation ID: 922c3cb9-cd74-4a17-9636-06e072fbce29
+
+Conversation ID: f69a4e09-a454-46a1-abb2-d3f1860fdcfe
+
+Conversation ID: 08975bfb-a14f-41fe-b0b0-dcdcb1312eec
+
+Conversation ID: 0ea2b866-1e3a-4cf7-9672-07c4ebd922f5
+
+Conversation ID: 5951952b-5d06-4164-bf7e-a18d2a6e4430
+
+Conversation ID: 33910b7a-ec6f-4baf-98e4-8f8791892fe3
+
+Conversation ID: 528b14d4-c5f6-4270-92ff-e8f40ee0adc1
+
+Conversation ID: 5d348d8a-d83c-4ac1-bd03-43432c20c782
+
+Conversation ID: 948a2e2b-7d73-4f7f-9494-e206e4e73dac
+  Python: 39
+  Other: 8
+
+Conversation ID: cf654eec-bdfb-43b3-b811-0d96bed403e6
+  Ruby: 1
+  Bash: 1
+
+Conversation ID: b375e4dd-de6b-4f4c-9823-8d3e00da6e48
+  Markdown: 10
+  Python: 28
+
+Conversation ID: b7c0c39d-5928-423e-a5f6-8dd10e5d1f5b
+
+Conversation ID: 6c1d9d42-8896-4230-a238-1409e4fddba6
+
+Conversation ID: 1db8c9b0-b3d8-456f-8b51-72327ac8b379
+
+Conversation ID: 8f788726-b8b4-4d7e-9545-dd154eb24237
+  Python: 1
+
+Conversation ID: 0366fc98-6a68-4975-9a53-2aec4edf7353
+  Python: 1
+
+Conversation ID: cba82f0f-20c2-4e8c-b07c-80abd661c63b
+
+Conversation ID: 652a0419-521a-4551-a6b3-f40a1db5d978
+
+Conversation ID: a20da471-1a32-415f-9662-0aaf98e50047
+  Python: 3
+  Other: 4
+  Bash: 2
+  JavaScript: 3
+
+Conversation ID: 4eb8faf2-1f9f-404a-b82f-eeb46217c2b8
+
+Conversation ID: 41bebc36-090a-476b-bc00-e32431a2f29b
+
+Conversation ID: cf68c347-c2f4-420c-b9ed-c4183ba5d903
+
+Conversation ID: 2514eda4-1929-4287-abff-44d061040758
+
+Conversation ID: 9fe0ac0d-c1e5-47b1-a5fc-13e665eff08d
+
+Conversation ID: d1485abc-6183-4cb9-a9bc-42750d97b02b
+
+Conversation ID: 61baee51-8eab-47bc-ab43-4aab97eb8421
+
+Conversation ID: ed789c93-6291-4d64-9ea8-04dddfb7884b
+
+Conversation ID: eae733a2-e1b1-4afc-aead-0b9b4a395ee5
+
+Conversation ID: ae51eef4-ae9b-4211-8eb2-9e07f61d1bb1
+
+Conversation ID: 096e4c97-857d-49e9-963b-8e04cacd967e
+
+Conversation ID: fd1a49fc-c140-4a56-aeac-11bceb254f62
+
+Conversation ID: 07a7af9d-c1bc-4bc7-a007-fca4e8df7e54
+
+Conversation ID: 8d6c1f62-f049-4fff-83b0-8835a11aaef7
+
+Conversation ID: 0c7b20fb-468e-4cef-b301-b59222873ba9
+
+Conversation ID: 9ad3de11-c144-4233-892b-3360d4146dd9
+
+Conversation ID: 78a3b088-a916-4630-9e08-bdd573874dc5
+
+Conversation ID: a3b79cee-d4b0-4510-ade4-0ac26c0b0454
+
+Conversation ID: f47cf9e2-c05d-4d22-9fa7-a1ce3f69e2bc
+
+Conversation ID: 779d1667-e9bf-494d-a26f-12029936be81
+
+Conversation ID: 8f5518ba-718e-4e48-97a0-1b0524acfbeb
+
+Conversation ID: 47983b73-0dfb-4cb9-b5ad-7f23d8050117
+
+Conversation ID: 15ee050e-4314-4369-8758-146f80f9f235
+
+Conversation ID: b86f51cc-e255-4cb1-8e61-2a18b4a29f59
+
+Conversation ID: cc9c5463-45cd-4b1a-86ea-895dcaffaff1
+
+Conversation ID: d984d49d-ed3a-43ec-9080-14b0f10f5242
+
+Conversation ID: f0f47d0e-07a3-429d-805f-e9b74469d9bf
+
+Conversation ID: 9a3e39dc-ae92-4b57-8983-c45e191b092f
+
+Conversation ID: 8dbd6304-1a17-4157-8daf-713c03628d6f
+
+Conversation ID: 82a0a112-d415-4e1f-b739-0a633b7362b1
+
+Conversation ID: 5d79e617-a1f9-4c33-8825-9698692c30ca
+
+Conversation ID: f504136f-f126-4c46-8261-927c9e3a6a56
+
+Conversation ID: a0a508ae-2895-4fe3-81ff-33897bde47e7
+
+Conversation ID: afb6d957-1c71-4fc6-b2fe-1e4b5b467e74
+
+Conversation ID: e0750c74-79d0-43df-9566-672142b90141
+
+Conversation ID: c490f9a7-c2cd-4174-8a58-2469d3618e63
+
+Conversation ID: d1efc0a0-4f2d-42e6-9226-c03681cdce69
+
+Conversation ID: 9801886c-d3a3-4609-b108-e233cc85ecb9
+
+Conversation ID: dd5aa235-64d9-472e-9c82-70cafea5b0cb
+
+Conversation ID: 0a919a37-f6ac-4e4b-9d9d-656a7bb1e87d
+
+Conversation ID: c3787c1f-6166-45f1-aa85-d560787fd440
+
+Conversation ID: bddde6c6-71c2-409a-b191-7d3a3642fe0c
+  Java: 2
+  Bash: 1
+
+Conversation ID: 4bced0a6-298f-4637-8e0f-503ae56dc85c
+  HTML: 3
+  CSS: 2
+  Bash: 2
+
+Conversation ID: 7f28255e-ed3a-4b9c-8e4f-bd549bb58845
+
+Conversation ID: 75622047-ebe7-42d1-9e39-3c32e87a969b
+
+Conversation ID: a9fe55d7-63d7-454d-acbe-0c051990ccff
+
+Conversation ID: d3ed34a3-059b-442f-a264-32ebe0e67a06
+
+Conversation ID: 8136d5a5-00ae-47ed-a11d-b914d9de5342
+
+Conversation ID: 51c13ce2-38d4-409b-b317-ee5cb8750a33
+
+Conversation ID: b672f2c4-4ae9-411e-a9b2-97b5661a7050
+
+Conversation ID: 1f780110-33cb-4ae5-a6e2-d302c91fc041
+
+Conversation ID: e3956554-5cdd-4a81-8cd2-c669d07ec956
+  Python: 13
+
+Conversation ID: 096b9500-9246-450b-ad3b-6b8c7ece29d4
+
+Conversation ID: 1dae510f-1d97-4806-bbbf-b176de94320b
+  Python: 1
+
+Conversation ID: e8ce3523-2a7d-4e4b-aa88-858da69c28bc
+
+Conversation ID: cd164764-c98b-41ea-a99d-7935200b5a8b
+
+Conversation ID: edc3a7d1-f0d0-47cb-814e-665b54ebf29d
+
+Conversation ID: 36a66d24-b395-4c74-bd85-0e4f6685c7b8
+
+Conversation ID: 071444af-563a-408b-ac11-e35bc858c22b
+
+Conversation ID: ef6d59a1-0df6-4425-b135-33a822a75a02
+
+Conversation ID: fcf9d440-9da1-48a9-b59c-b3bfa1478318
+
+Conversation ID: 15ea55ad-aa41-43d5-a92e-fada2f8dfd92
+
+Conversation ID: d708414a-418b-4219-af8b-47b0ff5af491
+
+Conversation ID: 423ce508-95fd-435a-a5e7-1c05518d9099
+
+Conversation ID: 1ca8a9c8-21cd-4f6a-93ee-1da50fb4ab97
+
+Conversation ID: f7a9ea88-fffd-4900-819b-841d96a4ee20
+
+Conversation ID: 16b10d5c-e635-4902-80a8-dcded1b9506a
+  Python: 13
+  Other: 5
+
+Conversation ID: 3322093c-1edf-4f94-bb9b-baffa8f1e972
+
+Conversation ID: c65a1000-5048-4ad9-a200-a40b4f4081e5
+
+Conversation ID: 0b8d8167-87fc-4862-9410-9207d0ecc1a8
+  Other: 2
+  Markdown: 1
+
+Conversation ID: 20813f32-8829-4f50-9d55-b9b456d454e5
+
+Conversation ID: 8a32b413-93e6-4602-96f0-81e4db1aea0a
+
+Conversation ID: 44705106-38e6-4e3e-abd3-64164e2da3fe
+  Other: 7
+  Python: 10
+  CSS: 2
+
+Conversation ID: b6bc60a1-d0de-4927-a2a9-3faa339a4872
+
+Conversation ID: c6ce532d-49a0-48fb-b797-b1975633dd1c
+
+Conversation ID: 80dc7012-09e8-4c9d-bc7d-4d30e677fd09
+
+Conversation ID: 107c095b-9cdb-48e9-b51a-064021421b4e
+
+Conversation ID: 33c849c7-54e7-4dec-aa8f-f31518cd6896
+
+Conversation ID: 39995ed3-2408-459c-8c2f-ba121f7a5696
+
+Conversation ID: ad37a342-8177-4f09-8d6b-324afe254bd6
+
+Conversation ID: 5fd762de-0e98-47e6-a2d3-38f744bf4c87
+
+Conversation ID: edb5fb47-a09d-4c56-83e8-4b4e1c52c051
+
+Conversation ID: 019b29d2-0a2f-464e-9a8b-b8e86c62fde7
+
+Conversation ID: aba6fbda-420c-492f-8f02-963e8475a281
+
+Conversation ID: c5249a7d-7c14-491b-a8de-313d971f456b
+  Python: 10
+
+Conversation ID: 5287ac6e-e4ae-4929-91f6-3ad525fee0d0
+  Python: 1
+
+Conversation ID: 43c35e15-63b8-4699-85a2-43793be2af08
+
+Conversation ID: ca0fc094-c062-42d1-8378-5fb4ec81eeea
+
+Conversation ID: 5cafe6c5-b69f-456b-9afb-3b1f5ef9aa3d
+
+Conversation ID: 99f61483-8e79-43d6-8fd5-ba47e2f06741
+  Python: 1
+
+Conversation ID: 5b526bc3-b1dd-4ebe-b7f1-2e311ac8e840
+
+Conversation ID: 56c14f34-d4a8-417d-bd07-b67be1464317
+
+Conversation ID: f5247adc-c28a-491c-9a4e-4fe3ac6c2844
+
+Conversation ID: 13b48011-e4b7-4a98-86e2-d7c1db0e2f11
+  Python: 1
+
+Conversation ID: c3f87aa0-adc2-41f5-ab31-35b66b285a08
+  Python: 7
+  Other: 2
+  HTML: 1
+
+Conversation ID: 63b2c0ac-f796-4721-9e67-91f6da7d658a
+
+Conversation ID: 1a60b8a9-4c58-4468-af02-441cf5db822b
+
+Conversation ID: d470f04a-47f8-4ba7-a9d9-eb45c37401b7
+  Python: 3
+  Other: 5
+  Markdown: 1
+
+Conversation ID: ed77ee61-6faf-4060-9909-06dad394c066
+
+Conversation ID: 46898273-f498-4c8a-acb2-15e57251d880
+
+Conversation ID: 8fc7ace7-2d6c-4816-b527-48a1f5292bb5
+
+Conversation ID: 28586ee3-ceea-4b3f-a0af-5d2b31c8d73a
+
+Conversation ID: f59d07b6-adeb-42ce-bd0c-f84925cb2bb0
+  Python: 2
+  Markdown: 3
+  Other: 10
+  Shell: 1
+
+Conversation ID: 439064d2-861e-4953-92f2-38b3a52801c7
+
+Conversation ID: 3f0d9894-2835-4c38-9b91-5d89645eae64
+
+Conversation ID: 85d61d92-7092-4462-a402-627ff03a3d69
+
+Conversation ID: e692050e-de4a-4743-bda3-d30f23a714dd
+  Python: 14
+  Ancient: 2
+  Other: 3
+  JavaScript: 1
+
+Conversation ID: b2c39406-4fbf-42df-a7fd-f0a42fa7fd13
+
+Conversation ID: 2f83f18d-df93-41b1-814e-d78b136366e3
+
+Conversation ID: 2fc4a658-ef1e-4f37-bf83-7e2fab14920a
+
+Conversation ID: 72b57925-aadf-4616-9ee4-46bc4759170d
+
+Conversation ID: 2c2b5395-5850-4a49-8a39-b3db2705bbc6
+
+Conversation ID: 97a35782-29b4-4a3d-b303-21cd21e3d361
+  Python: 8
+
+Conversation ID: f209f424-fe62-4326-9b66-b1a37d821b05
+  HTML: 1
+  Python: 2
+  JavaScript: 1
+
+Conversation ID: 44ed2ad1-f56a-458f-b67c-7ae22504ae84
+  Python: 2
+  JavaScript: 2
+  CSS: 1
+
+Conversation ID: 3f44d2ed-235e-4918-bba1-b502e36965fa
+
+Conversation ID: c0a24ee1-64ee-4fee-a7c8-c65804fea258
+
+Conversation ID: 4b34c53e-310b-461d-bb20-ff7f237b6d97
+
+Conversation ID: 4bc080d2-eff5-4841-8d1c-1bde9997bfa6
+  Other: 3
+
+Conversation ID: 8c5e3db5-7923-4d05-9105-3a0aa2257c5b
+
+Conversation ID: 600716d6-37d6-4dff-85b4-157ddc8fe0c5
+  Python: 1
+
+Conversation ID: 1f347bd4-eda5-4d1a-b2e1-ec3766c647be
+  Python: 9
+
+Conversation ID: 305171a9-8581-4cbd-94a7-9571e79d3b54
+
+Conversation ID: 2fd44516-448f-4109-9e6c-ac49f7815793
+  Other: 3
+  Python: 2
+
+Conversation ID: c5ef59f7-297f-4792-a5d9-2c2c39b271d8
+
+Conversation ID: ca50fdd3-f980-4efa-a15b-b60257e5fff0
+  Python: 1
+
+Conversation ID: f881392a-b370-4561-bc6a-45ddbd5ab945
+
+Conversation ID: 7afcd280-5d69-48ff-8894-3c5e2b3ebe44
+
+Conversation ID: 66d7bcfd-4490-4173-ae81-a6bd5c7fb154
+
+Conversation ID: 2e280bf3-0a4c-4fb1-8143-230d4041718d
+
+Conversation ID: ed3c1aa9-8f75-4c0c-866d-e42c50ceb800
+
+Conversation ID: 8fd2bf35-9bba-49b9-9ee3-08bbfe9816a4
+
+Conversation ID: 7faadc77-c898-41e7-8c2b-a07d8a2e3e4f
+
+Conversation ID: 2d2f8331-07b5-4a71-8e2e-4b0e85cffe8b
+
+Conversation ID: f5175dc4-f048-45fa-8e44-779f794c85fc
+
+Conversation ID: 7a5f2bbc-b415-4e16-baaf-448bfebfda3c
+
+Conversation ID: 8b75f93f-af31-4114-b15f-59b19eb8cf9e
+
+Conversation ID: 9a87ef9d-d224-4ae4-a28d-dec3104b71d9
+
+Conversation ID: f6ac1732-f399-4446-8097-fcf4b3aa62e3
+  Python: 1
+
+Conversation ID: d7efae50-0cda-4d04-b3f1-5d79f5472976
+  Other: 2
+  Python: 12
+  CSS: 1
+
+Conversation ID: 495935f4-b046-4dd5-a3ef-58d4c2227574
+
+Conversation ID: 7424d180-ba8e-4ceb-8d20-c5c88e464ef8
+
+Conversation ID: 58930f88-ef1e-4a52-a154-7483f41d581a
+
+Conversation ID: cf397852-1ca4-480d-86b8-c9374328f158
+
+Conversation ID: 68b4dae1-d915-47d7-b908-f3ac1f8e0e20
+
+Conversation ID: 54966d8a-4487-4641-b08a-d92fefed0ffc
+
+Conversation ID: a44054e3-99c6-445b-a464-e0702b9cb59d
+  Other: 2
+  Python: 12
+  Markdown: 1
+
+Conversation ID: e4a75c5d-9779-4682-b918-1f2302b20703
+  Python: 10
+  Other: 1
+
+Conversation ID: 6ae3f1ab-c63c-4495-a926-de44c4b3a846
+
+Conversation ID: acfa2092-2d60-445d-a443-9e3e01a83f66
+
+Conversation ID: 942a6474-1d89-444e-8376-c8b05d92e403
+  Python: 2
+
+Conversation ID: 012cec35-4ba5-435f-aa52-be8d0d7320f7
+
+Conversation ID: b8459ec9-ff6d-446c-a6e8-969f088d8a07
+
+Conversation ID: 21ec1813-b4c7-471b-8361-59536c366d2d
+  Python: 3
+
+Conversation ID: 9bd60a9e-a6b3-46ac-b362-c155b79a7708
+
+Conversation ID: 222bff63-22c1-4962-9ce6-be4180164824
+
+Conversation ID: cf36f8d0-4f4b-421b-9158-bfc14c044474
+
+Conversation ID: ff013432-1e2b-4cda-909c-178a15ee4569
+  Python: 5
+
+Conversation ID: 1c8c7a64-fd4b-4888-9779-580a43c2ec3c
+
+Conversation ID: 02711cc1-fcad-426e-8a94-8de354ec0d6c
+
+Conversation ID: dbe7fb91-00d6-4942-8659-06fe87aec95a
+
+Conversation ID: 303e0e26-d0a0-46e8-9823-2699cfc756c7
+
+Conversation ID: c5fbfeb1-6c59-40c2-89f6-4c2b2c812c2d
+
+Conversation ID: 35d4b391-906b-41e0-9d67-14697e8575f9
+
+Conversation ID: aa7f647e-4d40-46d2-9dcb-c0baf34ae354
+
+Conversation ID: de0c8d2f-2372-4e9f-a6ee-e78519f5f618
+
+Conversation ID: 142fe78d-7034-4a41-a03d-0cf840e071d6
+  Python: 1
+
+Conversation ID: 79a7bdc9-2ad5-4a88-a072-84d950876e1f
+  Python: 3
+
+Conversation ID: 3f650a1f-4978-4292-8832-0396983384b4
+  Python: 2
+
+Conversation ID: 8f782218-071d-4707-bf1c-0beb12a04134
+
+Conversation ID: 5f1a1803-f4b9-400f-94f8-2b40a5bd63ce
+
+Conversation ID: 406e875b-3559-42ea-83b3-ce91fb4f0eb9
+
+Conversation ID: 5cac2c39-6853-4c8e-8b1d-9d217d51911c
+  Python: 9
+  JSON: 2
+  Other: 1
+
+Conversation ID: 44ae604d-b11d-4928-8547-945ecbaa0a1d
+
+Conversation ID: 9059cbba-f701-459e-96a5-01e4144df442
+
+Conversation ID: 05834cd8-5828-4ffe-8735-5e586f4b724e
+
+Conversation ID: 4b37c9b4-09da-42eb-93a0-a0777c077f3d
+
+Conversation ID: e1cd6b65-ee19-471c-a782-8b4448d022c8
+
+Conversation ID: f028ac4a-abef-4f04-a661-30a64150b568
+
+Conversation ID: 64b6594f-0c29-4352-b43d-8a05b9f36ff3
+
+Conversation ID: bb42862c-1e18-4fa7-9d17-4a518ce21f7b
+
+Conversation ID: d543c596-03fe-4c32-93a2-591f0224ec01
+
+Conversation ID: 99271d45-a18c-4440-af3a-1ffe31d70814
+
+Conversation ID: 0c0d0736-1dd6-45d1-a834-3cbda251ebd6
+
+Conversation ID: 1e6fd22d-b19e-456c-91b2-a50c37d70e9d
+
+Conversation ID: 8af84a6f-40bc-4b37-87a9-b628fc13b56a
+
+Conversation ID: 7c512061-25b1-4b76-9586-a1d8f3177d34
+
+Conversation ID: e60849b4-4734-4655-a799-302685f09bbb
+
+Conversation ID: a9a1a536-c056-4217-9638-16202348c2af
+
+Conversation ID: b864258f-95ce-4d21-94c3-c67b9f5bd7e6
+
+Conversation ID: 5bc3ae44-4d45-453e-86c1-548825bc5c5f
+
+Conversation ID: 1e7485dc-e3f1-4215-a5d2-b134c39c9d83
+
+Conversation ID: 2febd516-2700-44d4-a13a-c318a2985c93
+
+Conversation ID: 792cc6bd-b736-4eb3-ad08-99aca3ae243a
+
+Conversation ID: 86ab7748-56f6-4e2e-bb8f-abb300ca3cad
+
+Conversation ID: b08e5587-cbdb-4c25-b547-2888f97bc22a
+
+Conversation ID: 138539f9-3d5f-4cd9-85e6-6e2b3c824118
+
+Conversation ID: 159d119a-568f-40ca-9079-c3a1ab98235e
+
+Conversation ID: d227b924-b331-4396-9b23-c3706d444edf
+
+Conversation ID: 0c2903a1-dea3-434b-a15f-eb46bbdd5688
+
+Conversation ID: e6a376b2-2670-4306-8411-2cc375c315ab
+
+Conversation ID: cb0e20d6-1535-4578-bbe4-c4a8e393b529
+
+Conversation ID: aec58216-20d0-4d94-9f4f-ae2efd530d21
+
+Conversation ID: 36930f5a-1db8-404a-b327-0962ccda63ac
+
+Conversation ID: 80f5d4a4-f96e-4ace-a5cb-b69cf0772b8c
+
+Conversation ID: fe3ea48f-f2a0-4b41-9ee7-533886d72f4e
+  Python: 1
+  Other: 1
+
+Conversation ID: cc6e18be-87c6-4aae-b198-aa1061d85fc7
+
+Conversation ID: 7f94a813-9a9b-49b1-92ef-0c9dd42901da
+
+Conversation ID: d1ae9331-8f89-44b1-a5b4-34a10a12807b
+
+Conversation ID: efd64151-6877-4d3d-8cff-157dd385a265
+
+Conversation ID: 5c834f4c-564b-4cdc-899d-fdd1ee75359e
+
+Conversation ID: 10154e7f-5e79-46d6-8cc0-de822a6046d5
+
+Conversation ID: 12a7b5d7-f578-4a03-a10c-20514335da77
+
+Conversation ID: 76c00937-ee98-491a-9b45-d847e1e2e314
+
+Conversation ID: 2feddccf-1128-4313-85f0-2a2ff9b28fbd
+  Other: 1
+
+Conversation ID: 20fefc23-6944-4cf6-94cc-6aaa64ba3109
+
+Conversation ID: 8cc2d92d-bc76-4027-bb44-5ab91131facf
+
+Conversation ID: 36bded23-357d-4cf2-9857-2ac8775a11f3
+  HTML: 1
+
+Conversation ID: 73620fba-5177-46f2-850d-d75a27bf7798
+
+Conversation ID: e076c8d9-ca5d-4e3e-b05b-b37b096298ad
+  Other: 2
+  Python: 3
+  CSS: 1
+
+Conversation ID: 53432f4b-c6cf-4614-b5fe-05877246924d
+
+Conversation ID: 1238ba1a-6c2c-43f9-bc5e-ecce9469125b
+
+Conversation ID: 1648a6a2-a355-4ddb-8208-5d004b489cb1
+
+Conversation ID: f97cf5e2-944d-4e65-9e05-67e9a3620fe0
+
+Conversation ID: 0a8774c0-2123-4776-9346-9b553238fb54
+
+Conversation ID: f3dd2f70-7668-47bc-94e9-39fd7226563c
+
+Conversation ID: 826b6440-e0f7-4c11-bec8-223ecb6dca2b
+
+Conversation ID: cbe5ae18-9642-4c0c-9ceb-9261cf0d99b9
+
+Conversation ID: d25f5f10-98da-4963-9f24-ff0c90648576
+
+Conversation ID: fd865074-3f08-4cbc-bba0-165a163b4a0d
+
+Conversation ID: 8abc7616-fcf8-4f53-9e94-f31dcf02931d
+
+Conversation ID: 0a4b5711-870d-4c95-8050-53dc2955dc1a
+
+Conversation ID: 90657af9-ec3e-40b2-a292-43531c9a3368
+
+Conversation ID: 5cc6bdc8-cd0c-4223-bbc6-09c02066efa2
+
+Conversation ID: 8bd725c2-9492-4687-bc35-651ba2c5afdb
+
+Conversation ID: a94d45df-c905-4d08-a946-ba10c6f47530
+
+Conversation ID: 00d1dbb9-5c71-40e2-99a7-c23379bea788
+
+Conversation ID: 0b400cea-5678-43a0-801d-dfbb78116337
+
+Conversation ID: f0099d0c-f670-49c9-80ec-2547ed245edc
+
+Conversation ID: e518d127-abc6-4aad-9374-b28b81e4cc85
+
+Conversation ID: 861eedab-fa75-445d-aa32-ab0b2f63fb5a
+
+Conversation ID: e06fef33-1468-4c62-8a19-026ff07a89c6
+
+Conversation ID: f0cab7df-6dcd-4da3-b5b7-9cf9c5d292c6
+
+Conversation ID: 46ee0a2c-0461-4809-8ff7-6f37ba74aea9
+
+Conversation ID: 65361085-4d5e-42d4-b47f-b8f4b3d71074
+
+Conversation ID: 939b8532-31ec-4a6c-aad6-54ed66ba6c3f
+
+Conversation ID: fa5604bd-efb0-40c7-bb6b-5d2457dc6706
+
+Conversation ID: d80449fb-a37b-4268-beab-4f64e3aa4ed3
+
+Conversation ID: 0e058234-9b03-4cce-905d-e13a798d968e
+
+Conversation ID: 8f86b9c0-cb7f-464a-8156-5843ede16800
+
+Conversation ID: 1c7768b4-21b6-4098-90c2-1d7c187d15d4
+
+Conversation ID: ab13b351-ae18-4060-bac8-6e4eb36f6804
+
+Conversation ID: 0d1c426d-dcf7-4564-bce5-6fd2c04db44a
+
+Conversation ID: 6b286f47-1e83-4c18-9212-ab9c7734fc6e
+
+Conversation ID: 423c79cf-caf6-43d9-b330-9310f93d8ae4
+
+Conversation ID: 90b6ba85-6913-4986-8a62-cd0ace376047
+
+Conversation ID: 3f9feb13-ac84-4f3b-acd8-57a9075d697c
+
+Conversation ID: 10260845-f52d-474f-bec5-0dfc5533d65c
+  Other: 1
+
+Conversation ID: 23503414-90a5-4baf-bf3c-34cf849a1f79
+
+Conversation ID: a8ba17bf-4239-432f-8940-14a120cb34d9
+
+Conversation ID: 8b243e71-a117-49de-bcc7-81ce4a7121ba
+
+Conversation ID: 612a3d37-4b23-44d7-ae43-82abdcfae5a5
+
+Conversation ID: bf52a3f5-0453-49a4-bc6b-25a6ff5b6914
+
+Conversation ID: f84bb3bd-4c73-458a-a08d-8d1265e05b77
+
+Conversation ID: 08927273-fa94-4af8-af13-78a670c9191d
+
+Conversation ID: 4d396a0f-756b-4a31-a681-ad3361cd6134
+
+Conversation ID: 5a51bbb8-0894-48e1-9f7d-9e1a1467e062
+
+Conversation ID: d630f268-329d-4b41-83d0-3d88d90506fa
+
+Conversation ID: 519d1e9f-dfe3-41d0-8eb8-2da71ba5bcff
+
+Conversation ID: 201aaa77-a858-4926-a655-0dfd7ee2471b
+
+Conversation ID: 8b76cfb1-7ff0-44de-b4e1-74e51a948f90
+
+Conversation ID: 56b2ff45-db74-45b2-9d29-c33cbdccdc4f
+
+Conversation ID: b20b6b34-49b2-4781-9606-6e0c9cfcca81
+
+Conversation ID: c6e9d8be-6680-4a5d-87b7-a0ef1544ca4a
+
+Conversation ID: 8ebf436d-aad8-46b7-9c12-4fe6d4d72284
+
+Conversation ID: 780ab042-ce37-4c57-b2c8-6eacc678eabf
+
+Conversation ID: bbc8df93-365e-4ca6-a7b4-f8cba1ac39c2
+
+Conversation ID: 3f11711d-19a7-47d6-9366-9a6b13df99a5
+
+Conversation ID: 2c95dacc-ae2b-46db-9496-18ede02f0708
+
+Conversation ID: 526233ba-fe45-4d7c-946b-bb8421c6fcb9
+
+Conversation ID: 58b1db46-1a75-491e-a729-74cbe98d791d
+
+Conversation ID: a1c0bf33-a16d-41bb-b9e2-c4b8613fff23
+
+Conversation ID: 53724e34-9c4f-4b88-bf59-0d3437250d9f
+
+Conversation ID: 929dece6-8c53-41c7-9740-efefbe0a9871
+
+Conversation ID: 8f6fc66d-98af-43f2-a60a-94f349c513a2
+
+Conversation ID: ef875362-bff9-4971-8b46-7227a2b11b20
+
+Conversation ID: ec859b3d-c591-4ffd-90db-14937ee05ab3
+
+Conversation ID: a6695346-d560-4682-a64e-8a2b287d5d82
+
+Conversation ID: 5274edea-9436-4f47-bdda-26f1addb9dc9
+
+Conversation ID: a1e7c8b5-19ea-4dff-ae8a-adf9095ea084
+
+Conversation ID: 3ac12fae-e3de-4851-8f81-60eccf0e22b0
+
+Conversation ID: 14a23b7b-4302-4d2e-b366-ebcd023775f0
+
+Conversation ID: 351dfc0e-95de-45ac-be99-2c80697a729e
+
+Conversation ID: 0590282f-a5f2-4810-8a9f-84c20bf321c8
+
+Conversation ID: 11788500-55c1-4375-98d2-15906cb40bd8
+
+Conversation ID: c4d2ef48-6d7b-421e-9dab-777354414f39
+
+Conversation ID: f6aea822-00c4-493d-9e3b-f5cb6b4ede50
+
+Conversation ID: 39794dbc-0464-403b-8a00-d2ce75fbe7a4
+  Python: 4
+
+Conversation ID: f67d29fa-027c-46cd-bcef-962a487d0a11
+
+Conversation ID: 263d1e63-3a25-4670-9605-800ccde79bbb
+
+Conversation ID: 30e6d23b-a4f5-4094-b6aa-29ac55d88e2e
+
+Conversation ID: 8b9ef691-7435-4810-bdea-4f9fa3423484
+
+Conversation ID: 3599ebe3-c1a8-42a4-b82d-382b60fca684
+  JavaScript: 1
+  Python: 1
+
+Conversation ID: c4f3637c-67e6-429d-9257-01fa15804f97
+
+Conversation ID: 1cc4d58c-84d4-43fc-a7a0-92bb0b6b09b0
+
+Conversation ID: e8309af8-bced-4c0a-828d-d288f6e9a77c
+
+Conversation ID: 3c766ef1-6182-42bf-b562-86709b4978c3
+  Python: 1
+
+Conversation ID: c3b99976-4e54-4a8c-b26d-b094b29c510f
+
+Conversation ID: 8bd05b60-25a8-4637-ad20-8bb75a8c8815
+
+Conversation ID: b2d84219-84cb-4a77-993b-0786d59aeebb
+
+Conversation ID: 2427e9d1-a4ac-4f76-beac-86bdf3ad9208
+
+Conversation ID: 63dcd52a-0b94-4efb-ad82-615fa1bcfaae
+
+Conversation ID: 727f4977-a8bf-4c9b-ba83-04da7da10684
+
+Conversation ID: 9698739f-6227-4baf-a1eb-050cb300b208
+  Python: 6
+  Other: 2
+
+Conversation ID: bce6b88e-2dd3-4343-8ba5-d98e824089c6
+
+Conversation ID: 3e800642-e8bb-47a0-a58f-2122fc2b48d8
+
+Conversation ID: 13b446fd-a73c-4357-8fbd-cf87723c15eb
+
+Conversation ID: 2e430543-51b3-40a9-8e91-f3fe8eb2a256
+
+Conversation ID: fca7c753-782a-4da1-8941-265ad41288e7
+
+Conversation ID: b490a1e0-be9f-434c-a12a-ab6c8074de76
+
+Conversation ID: 34013b91-6fe2-4bf8-891c-00d84473c510
+
+Conversation ID: d73f8d2d-6d06-4b5d-8c3e-25bd691ed365
+
+Conversation ID: 5e2f305f-064c-43dc-854d-46eafe20fe24
+
+Conversation ID: 38acee59-ffed-4116-9f01-fad41613a731
+
+Conversation ID: 6063c4e8-f177-4a11-ae9d-832b2aeeaf89
+
+Conversation ID: c139a786-09c8-4801-a669-ccd2bb257951
+  Python: 3
+
+Conversation ID: 781a4ed8-f3b9-43e0-9fa3-f46168b52f84
+
+Conversation ID: f2ca036a-b023-468a-aee9-600c654b6437
+
+Conversation ID: 5d63b0ed-d41e-4dfc-b690-b0917addc256
+
+Conversation ID: 46ff9d55-c1c8-4852-8cf0-67db7d5aadc7
+
+Conversation ID: 90d9f0a2-1a28-4d3e-b781-446391420c1c
+
+Conversation ID: 9595f967-d972-45b8-a3f9-329bd35d9d04
+
+Conversation ID: fb8cc417-af30-486a-a8ef-ba50dd3279e4
+  Python: 3
+  JavaScript: 13
+  Other: 6
+  Kotlin: 2
+  Ancient: 1
+
+Conversation ID: f9315d46-b1b4-47b8-84ab-9b83d792a5df
+  Python: 1
+
+Conversation ID: 3a85e915-4e34-403c-b682-1e911a82d9af
+
+Conversation ID: 9ee6ca56-e1a2-4d47-94cd-4aeb916cf824
+  JavaScript: 3
+
+Conversation ID: e52662f3-f132-4cbd-bd1a-bb2d0c75e0ef
+  Python: 1
+  JavaScript: 7
+
+Conversation ID: 16c9e924-efb5-411d-acc6-8adee8e70abd
+  Python: 1
+
+Conversation ID: 692f75fa-876e-44c0-996e-1165f045de9f
+
+Conversation ID: edaffb9e-5d77-4a4a-ae27-94bbcf74eb82
+
+Conversation ID: 61908ea4-51d4-48ae-a505-1721cdb1add6
+
+Conversation ID: e826cc7b-5dfa-48f6-890a-b710ef965053
+
+Conversation ID: ba4b8714-650c-4500-8cbc-8f0fe67d6d69
+  JSON: 2
+
+Conversation ID: 37b6e6a3-be8b-4653-a661-8ed0c7648b73
+  Python: 15
+  Other: 2
+
+Conversation ID: a39321ac-3a49-4a3e-906d-980fbe6a2e73
+
+Conversation ID: 41019c1e-0d99-4d7b-9542-51974af8914d
+
+Conversation ID: 72a77500-ed12-41be-a788-960f36d5423b
+  Other: 2
+  Ruby: 1
+
+Conversation ID: 3e80bd6b-3d54-4a6e-88a8-7443b8c2ab89
+
+Conversation ID: e3df5548-b41b-470b-9685-58c26870efef
+
+Conversation ID: 65f61ac3-0b7c-4306-a3b4-ab70f2eb17c7
+
+Conversation ID: a44ab61d-b06e-4d30-8578-75e8a8bb4ed2
+  Python: 5
+
+Conversation ID: 2cbb7de1-dcea-4a0c-b8ff-20db9f470b91
+  Python: 1
+
+Conversation ID: 1d90044c-307a-4857-83e0-27160458a350
+
+Conversation ID: c01c5c43-a061-4e4f-9b90-77e4b5c5b4c3
+
+Conversation ID: 13522338-9fc2-4a07-b836-ae5327432478
+
+Conversation ID: 63ff8aed-d65f-42e5-8901-a1bb7ba9cb90
+
+Conversation ID: 7ab43c0b-5f5f-49ba-9111-42fe3ec8a7b4
+
+Conversation ID: 50d58c7a-8e8d-4c7a-b335-da3fdc9ab898
+
+Conversation ID: ca46a4b5-d441-4eb7-9034-d414b406b881
+  Python: 29
+  Other: 26
+  Shell: 3
+  Bash: 2
+
+Conversation ID: f681a199-07b2-4227-a2fb-2e4644ae99a4
+  Python: 33
+  Bash: 2
+  Other: 3
+  Markdown: 1
+
+Conversation ID: 3c27aa4f-5638-4d94-80f2-a563426e8e9a
+
+Conversation ID: 613fb222-383b-4c8c-a6ea-0f4d1f54e830
+  Python: 2
+
+Conversation ID: dcda4024-7f28-4e43-a90c-a26cf161c055
+
+Conversation ID: 17da1c71-a20a-4fb8-a829-926c3de33339
+
+Conversation ID: 1ed61ea2-fad0-46cd-b523-bc2866432d17
+
+Conversation ID: c4a75444-5a10-4862-b04f-f532154ead63
+  Python: 1
+
+Conversation ID: 4759407b-8cba-42bf-9b39-364419c53b57
+  Bash: 1
+
+Conversation ID: 8fbb33b5-9b9b-41c8-8170-a20e6d9b464c
+  JSON: 1
+
+Conversation ID: 4520b162-f236-4da6-936f-7364a9d77609
+  Python: 7
+  Other: 3
+
+Conversation ID: 2e46898c-2967-47a2-a31b-6297c4b33ac9
+
+Conversation ID: 3bfed56b-2536-4db1-b96f-8c80fb9ae824
+
+Conversation ID: 8057e4d8-45a9-4bc8-86c0-8dfcd43c4980
+
+Conversation ID: 0ed810e0-ca40-4488-bb82-21a5cadf0826
+
+Conversation ID: 0acdb21d-7d07-46f7-9ad8-0bc43423d483
+
+Conversation ID: 6a9d2104-f2a7-41f6-8eb4-0a34623e1c1d
+  Python: 3
+
+Conversation ID: b93483f2-6779-4fae-9ec9-045a0a2ca408
+  JSON: 1
+
+Conversation ID: b10955de-2256-4cec-86a9-32ee57929c58
+  Python: 4
+
+Conversation ID: a15a8475-4f0b-438d-ab42-efd30833bc62
+  Python: 19
+  Markdown: 2
+  Other: 7
+  Bash: 1
+  Ancient: 1
+
+Conversation ID: 05ffab5a-58dc-429a-893c-d29d637a71cc
+  Python: 1
+  Other: 5
+  Markdown: 2
+  Bash: 3
+
+Conversation ID: d90569b0-aeac-4296-a959-9a150c11cc1d
+  Python: 6
+  Other: 1
+
+Conversation ID: 0048b621-6e0b-4098-9326-421d64baa2af
+  HTML: 1
+
+Conversation ID: eced05b6-d0f8-4f39-afc1-2e436f7ce674
+
+Conversation ID: af21fc61-cd7c-477d-8d11-8d38d3d3be1c
+
+Conversation ID: 3490b7fc-2b55-41f3-a67f-95faf42b20a7
+
+Conversation ID: e5d26f2d-dfd1-4cce-9ee0-c0258c2e2821
+
+Conversation ID: fb7deab0-7614-4b21-bd66-a78ed54595ff
+
+Conversation ID: 21b4c559-b082-41c7-94ce-3aa7ecb74665
+
+Conversation ID: fec7c15f-6a30-4ec2-8ba9-2a5e2d3b0aaf
+
+Conversation ID: e2473c4d-2f91-4b68-b67c-5b3a1e49e1fb
+  Python: 12
+  Other: 4
+
+Conversation ID: ec909e92-b05f-4789-a9a3-50bd0bf63a49
+
+Conversation ID: c3bd4046-3e48-4eb1-951b-04d7fa66e3ce
+
+Conversation ID: 63cbcdb9-509c-448c-90c1-b9a332d5bb17
+
+Conversation ID: 331f5f61-8846-4521-9fca-df9055cb0679
+
+Conversation ID: ae43853c-ad36-4e2a-9599-8400c8cf2264
+
+Conversation ID: 9db960d9-db4e-417e-908a-585308ff8622
+
+Conversation ID: 692c4421-4b29-46db-86ae-b6b3dd9fb439
+
+Conversation ID: 05b8af50-ec77-41a0-869c-973fb3bb1064
+
+Conversation ID: bb2b10b9-baa6-43f9-8481-ebce3d0ea32c
+
+Conversation ID: da29e86c-2912-4c5d-acc8-35d84f5f0f35
+
+Conversation ID: f21ccb99-b045-4de6-bdd4-4e9b730bf796
+  Python: 1
+
+Conversation ID: f5e0f139-8b79-439d-bb97-583454275a08
+
+Conversation ID: 8b1d3e86-0c9a-4d65-a848-5b932cd4e451
+
+Conversation ID: cf0f4e0c-7ade-478a-9a74-e7ca27f1560a
+
+Conversation ID: d9b45d98-7fc0-43fa-af94-6e13fda734e1
+
+Conversation ID: 3d92760e-ecde-4a47-aa33-58341ce33255
+
+Conversation ID: 584e7be4-f554-4f0e-9e80-9df8d7549a43
+  Python: 1
+  Other: 3
+  JSON: 1
+  CSS: 1
+
+Conversation ID: c2685d69-4f91-4699-8030-ea6c549e79ca
+
+Conversation ID: a5252051-9844-4098-bb22-5c43c8da2b25
+
+Conversation ID: c045fd0f-2169-4efb-ad38-fead95193861
+
+Conversation ID: c5a01712-bd97-4eaa-9cad-61b246ccc0e0
+
+Conversation ID: 269babaf-e479-4499-9bd5-60098c156012
+
+Conversation ID: 83d04569-5b62-4fae-9269-96163038f4be
+  JSON: 1
+  Python: 35
+
+Conversation ID: 6ecd3596-296d-4664-a135-95653c8dc8bb
+
+Conversation ID: 57d77b32-dde4-45a0-9e9a-225442dd0aab
+
+Conversation ID: 51cf5c47-583a-4755-a2eb-a8d839d069ae
+
+Conversation ID: 0405196c-bc67-4afe-91e9-38507e6b1773
+  JSON: 2
+
+Conversation ID: 1e6bc86a-05ee-40e6-972b-6a497b87f59f
+
+Conversation ID: 31f11aef-c9a2-4a84-a3fb-c15257f6808d
+  Other: 1
+  Python: 1
+  JSON: 1
+
+Conversation ID: ebfb3a9d-2f12-4b92-8034-f2d18c2500b1
+
+Conversation ID: 40c019b3-b42d-4bb4-95f6-4b08f5c3bccb
+  Python: 3
+
+Conversation ID: 23b0891d-1553-4aa3-8976-58aa146a3f85
+  Python: 2
+
+Conversation ID: aa09a420-8a5c-4286-9071-2907603db8ed
+
+Conversation ID: 222cc588-0888-45a5-b9a4-2ecb95ec3067
+
+Conversation ID: 67d48964-2aba-4abf-94d5-6f1c02ead071
+
+Conversation ID: a0c07854-26e3-40b4-979d-87efa75eaffa
+
+Conversation ID: 6bcfb068-f730-41ac-b76d-55d19b414571
+
+Conversation ID: 761a93f0-119f-4593-84e4-05f764d797e1
+
+Conversation ID: d0519b75-6b6e-46a4-b4d4-a4870fb978ec
+
+Conversation ID: 21c65d14-f193-4a27-9324-d654a01a4d38
+
+Conversation ID: c4798ec9-6233-425c-b63b-ca668f4f8aec
+  JSON: 1
+
+Conversation ID: f15d8c43-bc62-4e54-9933-7a68d37431f8
+
+Conversation ID: 85187622-e7ed-4541-b759-49381cc8cc2a
+
+Conversation ID: ef519f66-64a9-4aa0-8ce0-94211ec33cfc
+  Other: 14
+  Python: 28
+  Markdown: 2
+  Bash: 2
+
+Conversation ID: a684ed74-5737-4370-8e91-913eb11ef08d
+  Other: 1
+  HTML: 1
+
+Conversation ID: 84005563-31fc-4e25-a289-d0dc20f7006c
+
+Conversation ID: e0b85d12-c611-47a6-b9c9-12f9da69c9e9
+
+Conversation ID: 586b6df8-313b-4ab6-95cb-2fb24d74fb34
+
+Conversation ID: 87dc1334-fca6-4ffd-91c9-166ec99d2a6a
+
+Conversation ID: 8a3db4c0-7988-4901-b17b-810f4b9b13e1
+
+Conversation ID: 05dc45bb-11d9-4d9b-8dd3-110a85af75cc
+
+Conversation ID: 16745afd-0d0e-4f22-a717-4473254739e8
+
+Conversation ID: 0807d567-3329-49a2-af80-98e2c52f564a
+  Python: 2
+
+Conversation ID: ba7fd40f-b0d7-4e7d-9f02-fd1b8849ade3
+
+Conversation ID: 7b250eee-4ecc-4207-b007-2daad4e9fd93
+
+Conversation ID: c0311e3c-425d-4a8c-a35a-ef3e74ea3ac3
+
+Conversation ID: 493f758d-60cb-4dab-9778-2ca71780a537
+
+Conversation ID: f61d539e-c826-4243-8594-f54974c07b59
+
+Conversation ID: e72fc260-9b7d-428f-8a55-e4b4cf329cb4
+
+Conversation ID: 94e79fb7-0d1f-474f-88c2-84596c18f36f
+
+Conversation ID: 6f61bac6-71fd-4d37-a1e1-580bf0bd62d3
+  JSON: 1
+
+Conversation ID: 4baf7e78-3420-4e21-a5ee-7cd04acb9b4c
+
+Conversation ID: ab2ae21b-03ec-4d91-8c4b-3f6202688d1d
+
+Conversation ID: d044d48f-078e-4218-ac33-c46b497bebe7
+
+Conversation ID: 65799f34-0a08-474b-bfbd-2db3a944071d
+  JSON: 1
+
+Conversation ID: f1a872dc-f45e-49f0-bb23-e8bc30f04314
+
+Conversation ID: fde19bce-3abc-47ea-a817-711307560fb7
+
+Conversation ID: 21cbdd7d-6adc-47ca-bf68-82988d76f9b5
+  Python: 3
+  HTML: 1
+  Other: 3
+  Bash: 1
+  Ancient: 1
+
+Conversation ID: 2a622542-dbef-4a10-8e7a-e46aeba57c65
+  TypeScript: 1
+  HTML: 1
+  Bash: 1
+  Python: 2
+  Other: 3
+
+Conversation ID: e2731f18-2d30-4de1-a12c-c20f66860d54
+
+Conversation ID: ea75c1d2-9976-4765-99ad-e55e12300794
+
+Conversation ID: 64e89b72-705c-4c84-bcaa-15ddfb6da908
+
+Conversation ID: 74d8ec0b-d1a1-4152-a899-945f99b41c6a
+
+Conversation ID: 47b50645-ddd3-42bc-b71d-9dedd03a06ea
+
+Conversation ID: a63d2d98-e182-472d-82e4-a51cf393e3bf
+
+Conversation ID: 2c500437-15b3-48fc-8169-ee9af6136307
+
+Conversation ID: ee44b9e3-35a2-4fc6-9e86-2e14f0e4d845
+
+Conversation ID: 7d050464-0daf-4994-81c9-85fc4f1baad3
+
+Conversation ID: 7b3ea412-7c8d-48f2-92b0-b8aa6c8fc26f
+  Python: 6
+
+Conversation ID: 7f8f57b5-4082-43a3-96e9-7963a1ef795f
+  Python: 20
+
+Conversation ID: 9fcd65b7-12b6-4ea1-a4ed-4e4bec4c4a26
+
+Conversation ID: ad3c00d5-51d4-46e9-8b46-e45e5f1aa61f
+  CSS: 1
+  Bash: 1
+  HTML: 1
+  JavaScript: 1
+
+Conversation ID: 56fba4b5-1e4f-409c-b846-570877eaa1ac
+
+Conversation ID: be80b9f9-2e89-41ff-a89c-5e3b3c3f5e16
+
+Conversation ID: 658a613f-7fd2-46d0-8cde-70ee1322ff97
+
+Conversation ID: 9a6adb47-3407-4e65-a2e0-b4ec2467d918
+
+Conversation ID: 71cc3227-5c55-4f60-be60-64a7b5908f3c
+  Python: 17
+  CSS: 5
+  HTML: 10
+  Other: 5
+  JavaScript: 1
+  Scala: 1
+  XML: 2
+  Kotlin: 1
+
+Conversation ID: 564d5609-3995-4970-82bd-35a329ce59de
+  Java: 3
+  Other: 9
+  Python: 8
+
+Conversation ID: 33dbf6b8-8626-4598-b37c-af8e2cfe1268
+
+Conversation ID: 4689bbe1-55be-4122-8043-1165a82e5dbc
+  Python: 1
+
+Conversation ID: f75423fb-8083-47c7-a2a2-44cccbfb4bf4
+
+Conversation ID: 4544109c-2679-416c-a63b-2eeb6cabbf49
+
+Conversation ID: 689981d1-bac2-423a-b784-2dc9791100e3
+
+Conversation ID: a5684a38-b5f1-40ed-b56c-4d7b1ebed6a8
+
+Conversation ID: 475e51d4-e691-4817-abc7-c4b781623aca
+  Python: 15
+
+Conversation ID: c80c0c16-cea8-4d2a-841f-201a0403ac56
+
+Conversation ID: 6e5fa0ee-de57-45b0-a462-130ff56a56f8
+  Python: 2
+
+Conversation ID: 1694033a-fcfd-4a10-8a74-c0d6c745a5a3
+  Python: 24
+  Other: 7
+  HTML: 19
+  JavaScript: 2
+  CSS: 5
+  Bash: 1
+  Ancient: 1
+  TypeScript: 1
+
+Conversation ID: 06d2dcf7-acab-43e4-befb-0f202d4489ac
+
+Conversation ID: 0bfc42a4-0fe5-4766-9fb0-d3b36f9ba4f5
+
+Conversation ID: 7ad38ad3-c512-4679-b8de-d192414436ff
+
+Conversation ID: 9d6ef5a5-207a-4673-99cb-8555da896fe6
+
+Conversation ID: c68c5ab3-c961-4a09-a77d-37f4796622e5
+
+Conversation ID: 9420159a-56ce-4d94-b97a-8877973d2b6d
+  Other: 3
+  Python: 2
+
+Conversation ID: 843da82f-6f25-45eb-ad57-7928448ec28e
+
+Conversation ID: ab89e6b7-997f-44c2-a8bc-35aadcfbf7f5
+  Other: 19
+  Python: 10
+  Shell: 2
+  Markdown: 3
+  JSON: 1
+
+Conversation ID: 012fc158-2a40-4504-b9c4-44ab2845afc8
+
+Conversation ID: bfafe21b-92f7-4044-a33e-dd0e4c5ee8d0
+  Python: 2
+  Java: 3
+  CSS: 1
+  SQL: 1
+  Other: 9
+  HTML: 1
+  Shell: 1
+
+Conversation ID: e7567207-d361-48c9-9224-53ecd0d6b389
+
+Conversation ID: a0a552cd-cf31-472c-aca5-cb354734daaf
+
+Conversation ID: bba9b10e-bb52-4b55-9b7b-9bc28b0c1800
+
+Conversation ID: fdff6680-d11c-4a38-b24b-7d885e1efa1c
+
+Conversation ID: 6fd295f3-8f90-4a9a-a5dc-b9230f74afbd
+  Other: 2
+
+Conversation ID: a73b517c-a8f9-4e81-bafc-f894635a2ade
+
+Conversation ID: 5c99b0ee-3d81-4831-a395-b054e2a7f8cf
+
+Conversation ID: 83445ad4-6b52-4c8a-8133-d48e13562dbe
+
+Conversation ID: be3f8e65-d21e-47bb-9bfe-d229284f2a24
+
+Conversation ID: 9f0c2fef-6aac-426a-bd41-7a920bf03945
+
+Conversation ID: 389d18f6-6949-4379-a4a0-7e547b2e5158
+
+Conversation ID: f5b9cde0-d04b-4d4c-9e30-358daf4d0ebd
+
+Conversation ID: df720f7e-cd24-40e1-96f9-7684f5618c7e
+
+Conversation ID: 59078fde-8136-4e4b-b464-e73a52facbf2
+
+Conversation ID: 3749e8cc-26d5-448f-97b5-7a609ceebf51
+
+Conversation ID: 394b7ff9-8b9f-4399-afb9-c8883d54af99
+  Other: 1
+
+Conversation ID: 7e6e25d0-4374-4fd1-a375-ff683dfcd39e
+
+Conversation ID: 21264ca0-8377-49c3-87fc-0b26e533ddfa
+  Other: 17
+  Python: 2
+
+Conversation ID: 681d820b-6ac7-49cf-a40f-7ff34c6d6282
+  Python: 14
+  Markdown: 1
+  Bash: 1
+
+Conversation ID: 0bfea93a-d8e1-47b4-b716-346fb5aa2a64
+  Other: 2
+  Python: 1
+
+Conversation ID: 79835f86-72f8-4998-b9c6-158302ae3fe2
+
+Conversation ID: 8dfc1b47-8096-4503-ae8a-d7b86c587626
+
+Conversation ID: b0be0963-bb51-4738-af9d-77480f4926da
+
+Conversation ID: efa1b4da-f8ba-406c-9201-6169407b8645
+
+Conversation ID: 7d72dfa8-69f3-4e8f-8946-4c14ee12fb0c
+
+Conversation ID: 80c0a499-69a6-46c0-9a7c-03d87dfc223d
+
+Conversation ID: 29482058-6f08-4fbb-91e8-d162345538e6
+
+Conversation ID: 01e57a24-bfb3-4b14-be42-ac8dc040aa60
+
+Conversation ID: 84b2ee64-0780-430a-ab55-cc93153c5edb
+
+Conversation ID: 1361f51e-4692-4b4c-b95b-75282bfb4489
+  HTML: 5
+  Python: 4
+  CSS: 1
+  JavaScript: 2
+  Other: 1
+
+Conversation ID: 25abd12a-29dc-4b27-a416-53eaa52352d5
+  Python: 12
+  Other: 4
+
+Conversation ID: 8e35359b-1ef1-436b-b87d-c266c206ad7e
+  Other: 1
+  Python: 1
+
+Conversation ID: 8425f785-5dc3-4eeb-ad2b-0272281772d6
+  JSON: 2
+  Python: 12
+  SQL: 1
+  Other: 9
+  HTML: 1
+  JavaScript: 1
+  Bash: 1
+
+Conversation ID: d824809a-57b3-4a9d-b263-93bff0d976dc
+
+Conversation ID: 3593a1b3-de0e-4c08-aace-a618c93dbdf7
+
+Conversation ID: 81a2fea6-f964-4329-a318-02e3de4bb002
+  Python: 6
+
+Conversation ID: 264a70e9-a2ec-4209-bf5f-f23f20bb2e56
+
+Conversation ID: 29a4d7ce-b90e-4a64-b3e7-d4454d14c536
+  Python: 12
+  Other: 2
+  JSON: 1
+
+Conversation ID: e4987abb-c156-4e28-a279-0d19b25c02ab
+
+Conversation ID: 4ac02602-9323-4213-af0a-805060783690
+
+Conversation ID: 5b277cca-75b9-4b06-95cf-27ea97fe1b7c
+  Other: 5
+  CSS: 2
+  HTML: 24
+  Python: 6
+  Java: 3
+  Bash: 2
+  XML: 2
+
+Conversation ID: a47acd68-b6e8-4fc8-a8f1-8e6eba5d8c91
+
+Conversation ID: 24351a48-3fcd-4cd9-b5a0-f46767cbbdf3
+
+Conversation ID: cff6bc15-57c9-4851-b7d5-811c63ee412c
+  HTML: 2
+  Python: 5
+  JavaScript: 2
+  Other: 2
+  Bash: 1
+
+Conversation ID: cd2368cb-e7e1-4156-8ab1-42c89749022d
+  JavaScript: 1
+
+Conversation ID: 4a5c087b-fff6-454e-af50-73418608faef
+  Python: 5
+  Other: 2
+  Markdown: 1
+
+Conversation ID: d20fb787-abae-4557-a650-be3bb76aa800
+
+Conversation ID: 05d5ed63-185e-4e7a-b4b4-fe2604606f5c
+  Python: 50
+  JavaScript: 1
+  Other: 4
+  Bash: 3
+  HTML: 1
+  JSON: 1
+
+Conversation ID: 57ca59fb-8351-4d57-918d-d6773cea5159
+
+Conversation ID: 921a23cc-6890-43e7-af19-ae92b0a1dfa1
+  Bash: 2
+  Markdown: 1
+
+Conversation ID: 5bb508ff-b845-45d7-a0a1-47d938755e8f
+
+Conversation ID: 96433411-7f77-4ad9-a350-b47538a30872
+  Python: 5
+  Other: 3
+
+Conversation ID: f82ec41f-f0f3-4cac-97e0-ef3e82b43657
+  YAML: 10
+  R: 2
+
+Conversation ID: 2cb174a8-8d78-4950-a612-b1842bff3fcb
+
+Conversation ID: 454157b8-cf4f-4d95-b4f3-16f3dc446b2d
+  Python: 3
+
+Conversation ID: 983c4037-7768-45dd-8cb0-7497be4340a6
+
+Conversation ID: 79d84758-654b-4b2b-93be-29a85dfb5913
+  Other: 14
+  Python: 28
+
+Conversation ID: 2d71cd51-4f27-4083-81d6-62e4c47c8516
+  Other: 3
+
+Conversation ID: 2bf98d60-4a87-454b-8d0a-cc054d3424b9
+  Python: 8
+  Other: 2
+  Markdown: 1
+
+Conversation ID: 1e944f37-221f-4b89-89b0-732693d6ff80
+
+Conversation ID: e179c18f-8eef-464a-836a-0a7c61e59cad
+  Python: 30
+  Other: 3
+
+Conversation ID: 0facda30-f6fa-477e-ae3e-73b5a924182f
+  Other: 1
+  Python: 15
+  Ancient: 1
+  Bash: 2
+
+Conversation ID: 72fc452d-8b3c-4e49-ae63-2ed0a374f114
+
+Conversation ID: 41edc54b-4756-47d3-b1da-909c253f9efa
+
+Conversation ID: bc295bae-98bf-417a-828f-c406ebb04f25
+  Python: 1
+
+Conversation ID: 62e6be73-b44e-4173-bd36-3837e49458d4
+  Python: 6
+  Markdown: 1
+
+Conversation ID: ca17a9bd-15eb-4e98-a29a-4c9c7d36f8f6
+  Python: 10
+  CSS: 2
+  JavaScript: 1
+  Markdown: 1
+  Ancient: 2
+  HTML: 7
+  Other: 3
+
+Conversation ID: 239593d7-daa2-4183-b383-89a02cba7381
+
+Conversation ID: ccd5fb20-3cdd-49fe-9971-e38e1d59d55b
+
+Conversation ID: eea7c95e-0f20-41a5-924d-20e386e3d17b
+
+Conversation ID: 3745a6d6-957a-4244-b7c6-2968b2041162
+
+Conversation ID: 20f1ee19-4a03-471c-80df-361f8d3175b1
+
+Conversation ID: 5337850c-a2b7-44b9-9398-633216a46eee
+
+Conversation ID: 6733e950-d8f5-425c-b4bc-7b2891df0b3a
+
+Conversation ID: c570aa4e-955a-453d-a560-187f27694bfd
+
+Conversation ID: 965082cc-fa2c-41d9-a410-63bbf6a336d5
+
+Conversation ID: 276a0649-3406-4619-be6c-d0f2a13cfe5c
+
+Conversation ID: 20c7bf94-8f11-4b90-8884-1bf594bd876e
+
+Conversation ID: 0f41572f-23eb-4dfb-bbea-3c8ec0151ef3
+
+Conversation ID: b006c015-d214-483a-99eb-1310f153936e
+
+Conversation ID: 84addeb1-1f36-41c0-a475-daf152e8f717
+
+Conversation ID: 23338247-76a6-4785-9158-ddfdf65a6d21
+  Python: 7
+
+Conversation ID: fd824ba0-c4eb-4dd3-b53a-ec2f53eeca67
+  Python: 30
+  Other: 3
+  Markdown: 1
+
+Conversation ID: 4f3f400b-09c3-4545-8911-6aebdaf55f62
+
+Conversation ID: 4fcb0b42-b9bb-4a11-a6bf-6096583dbe73
+  HTML: 1
+  Other: 1
+  JavaScript: 1
+  Python: 5
+
+Conversation ID: b55970c1-ff10-4111-a2aa-5e2ea1a4ec18
+
+Conversation ID: b6ac79f8-8cda-4b09-8e76-f55b1c774ae8
+
+Conversation ID: d5fe0d72-c277-4f6c-afe7-465f938c5477
+  Other: 2
+  Ruby: 1
+
+Conversation ID: 3d3687da-269e-4b28-9839-6039b1df2c58
+
+Conversation ID: d89e7b02-594f-46b8-81cd-32c906ac1adc
+  Python: 9
+  Markdown: 1
+
+Conversation ID: 8313eee9-8364-48f4-8d9f-513cb522eef4
+
+Conversation ID: 2ff59967-e57c-4ddd-b10d-2f6387faef33
+
+Conversation ID: 3394a59e-6998-4384-b4bd-c5ea87a5f60c
+  Python: 10
+
+Conversation ID: 46c679b3-0e2d-487d-a9b1-f7655aaddf73
+  Python: 21
+  JavaScript: 1
+  JSON: 1
+  Markdown: 1
+
+Conversation ID: bf140967-a721-4a61-b523-7d5c27f56f07
+  Bash: 1
+  TypeScript: 2
+  Python: 1
+
+Conversation ID: 3406bd7c-e11a-49a2-8170-6bd2e97a1b58
+
+Conversation ID: c29ed67b-a348-48c3-82d5-449c26e38b21
+
+Conversation ID: ba2acdd9-9b85-4c09-93b8-1c9635632d35
+
+Conversation ID: 7fa5d6ee-6e67-455a-9d13-1acbf32a974a
+  Other: 4
+  Java: 2
+  JavaScript: 7
+  HTML: 1
+  TypeScript: 2
+  Bash: 2
+  Python: 1
+
+Conversation ID: 5c0af829-6877-408a-807e-d7684a1c3894
+  Python: 26
+  CSS: 2
+  JavaScript: 5
+  JSON: 2
+  HTML: 2
+  R: 3
+  Markdown: 1
+  Other: 4
+
+Conversation ID: 66548408-614e-4219-a4de-e5103ad6926e
+  Python: 12
+  HTML: 1
+  Other: 2
+
+Conversation ID: 787a48ac-6da8-4231-a8dd-da8ffd64efa4
+  Python: 6
+
+Conversation ID: c3863121-c7dc-4fe4-b8f2-7947cc6d0102
+  Other: 1
+
+Conversation ID: 261ab7b7-80de-4f5c-a7f8-3e8f53286002
+
+Conversation ID: e567ae74-8323-4b59-bb45-7a0a8ad6c191
+
+Conversation ID: 7b498ea7-f846-4275-91c8-d64ea12e5f90
+
+Conversation ID: 7a91ddd9-c6fb-429c-ae6a-d7fe38920683
+  Python: 1
+
+Conversation ID: d6227ca8-ce84-4e82-8a22-83c494b41fc2
+
+Conversation ID: 0f692c6b-9eb7-43b3-a737-1ca1e240a813
+
+Conversation ID: ce501832-c42a-4454-8d56-f93082bf88e0
+  Python: 2
+  CSS: 2
+  HTML: 5
+
+Conversation ID: 39fa7829-7939-4bd1-ae06-a4b6a04eacc1
+  HTML: 2
+
+Conversation ID: a96f3c6e-9f43-4cae-9817-5309c74dce2e
+
+Conversation ID: 540aee2c-559c-4a41-b621-c1591f88b96e
+  CSS: 2
+  Other: 1
+  Python: 3
+
+Conversation ID: 4c70b3fd-bc2d-47f7-89e8-b793740b7ad2
+  CSS: 4
+  Other: 4
+  Python: 1
+
+Conversation ID: 69c61363-60c5-415f-b687-cf307a69063b
+
+Conversation ID: 18a2fbf3-3e31-4724-bae1-a3a5a261f093
+  Other: 4
+  Python: 23
+  Bash: 1
+
+Conversation ID: edb49343-083a-4bd4-a32a-496702e965b8
+  HTML: 1
+  JavaScript: 1
+
+Conversation ID: 337e5b02-3d41-4ea5-9cc4-c6667e9c76de
+
+Conversation ID: 9a7e67e9-487b-43ce-9194-4a41a9899330
+
+Conversation ID: 34180fa5-aa1c-4e8f-82fd-a43816db755f
+
+Conversation ID: 9f272754-9975-4157-866d-94b0ee5c2ef2
+
+Conversation ID: 3aed0faa-b710-476a-95ef-8062cda641ec
+
+Conversation ID: b927a7ba-c8cb-4d10-8a07-33270be68569
+
+Conversation ID: ea99788b-62c9-4784-9be9-da7b11317ce6
+
+Conversation ID: 692c9131-426f-4b5d-9f95-9f3ddb74f86a
+
+Conversation ID: d8e1657e-98c9-4e21-85eb-c559409f8f90
+
+Conversation ID: cb5e160b-61eb-45d6-a156-a668e6492eab
+  Python: 6
+  CSS: 7
+  Other: 1
+
+Conversation ID: f2ceb34b-9f5c-41e6-9538-1da32c257510
+
+Conversation ID: 918bcc77-635b-466e-a0a5-503dbec22b04
+  Other: 4
+  Python: 1
+
+Conversation ID: 4514765d-d682-48d4-8369-db6443488448
+
+Conversation ID: 1a008c2a-fb35-4c7a-8b6f-be6c351a63e2
+  Markdown: 2
+  Python: 6
+
+Conversation ID: ebc543d2-4310-4a08-b46c-82756f7ce8e8
+  Shell: 1
+  Python: 2
+  Bash: 1
+
+Conversation ID: 9c5df58f-d022-4fba-adbe-2cb6a40b5c9b
+
+Conversation ID: ca2f3745-cd59-4bae-84cd-1fc4a67b7f20
+
+Conversation ID: a84e4529-9c01-4cc0-80e6-f482f80976e1
+  SQL: 4
+
+Conversation ID: c5244949-9089-4e5e-8361-99680df9c802
+
+Conversation ID: 0adee050-4d42-4be8-808b-8545002ca6ad
+
+Conversation ID: de84c4c6-697d-4b87-a184-f75458b0b35a
+
+Conversation ID: 42610c23-27aa-42e4-af87-3e1049c63b83
+
+Conversation ID: bead6c5b-d1d9-4d82-b3a9-033aea377534
+
+Conversation ID: 9d71c0f9-00b3-41a0-a153-9b0ab4fbdc6b
+  Python: 2
+
+Conversation ID: e998a2e2-f259-4d8b-85e8-3863751dcb91
+  Other: 3
+
+Conversation ID: a65ad00c-b758-4774-b255-0229c2d3c0eb
+  HTML: 1
+  Python: 1
+
+Conversation ID: 7dfc297d-3952-49cd-9d41-81b60c9b9926
+  YAML: 2
+
+Conversation ID: 2eca4718-43d9-4c73-a1de-6e294a0aee1d
+
+Conversation ID: b543a22c-d93b-4560-9124-0e45c40a3138
+
+Conversation ID: a1b584ac-4d7c-45ee-be13-a2a3e320ec1d
+  Java: 1
+  CSS: 2
+  JavaScript: 5
+
+Conversation ID: dace1226-45a5-422e-9b9d-a79deccb98c1
+  Python: 1
+
+Conversation ID: 82ec1565-deb2-4eaa-81b0-ad2d09d661e7
+
+Conversation ID: 56f6f948-a856-4736-a1d7-9ee9aea17ca7
+  Python: 2
+  SQL: 1
+  CSS: 1
+
+Conversation ID: 25e9df88-46f0-4d08-8b2e-f45188a74490
+  Python: 3
+  HTML: 1
+  CSS: 1
+
+Conversation ID: 68dc6351-8fe7-4e29-ac53-5204d83a6a25
+  Python: 1
+
+Conversation ID: 4740cce5-b953-46ff-ad7f-29dcf2404905
+  Python: 3
+
+Conversation ID: 998295f8-a471-47a4-8d74-f16970a1e34b
+
+Conversation ID: 4462c8f8-58fb-4ba2-9c0b-0385f0da8d95
+
+Conversation ID: 9fb8784b-0d15-4046-8ba3-eddc7da98f8f
+  Python: 2
+  HTML: 2
+
+Conversation ID: 338249b8-09d8-481e-a312-6ff0364877d0
+  HTML: 2
+  CSS: 2
+
+
+Total code snippets by language:
+  JSON: 32
+  Other: 821
+  Python: 1894
+  Shell: 125
+  HTML: 228
+  Markdown: 202
+  R: 11
+  Bash: 77
+  JavaScript: 109
+  YAML: 31
+  Ancient: 25
+  CSS: 54
+  TypeScript: 9
+  Java: 16
+  Go: 1
+  Ruby: 3
+  Kotlin: 3
+  Scala: 1
+  XML: 4
+  SQL: 7
+  Tool: 3466

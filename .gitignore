@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data Files (potentially sensitive)
+conversations.json
+*.csv
+*.sqlite
+*.db
+user_data/
+usr_data_chatgpt/
+gptlogs/
+analyzed_conversations/
+
+# Output Files
+*.png
+*.jpg
+*.svg
+*.html
+*.pdf
+analysis_results*/
+output/
+reports/
+heatmaps/
+visualizations/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Large files
+*.zip
+*.gz
+*.tar
+
+# Personal/sensitive data
+api_keys.txt
+.env
+*.key
