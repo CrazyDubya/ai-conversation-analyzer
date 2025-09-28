@@ -1,0 +1,32 @@
+name: Repo Audit
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install tomli for py<=3.10 compatibility
+        run: |
+          python - <<'PY'
+          import sys, subprocess
+          if sys.version_info < (3,11):
+              subprocess.check_call([sys.executable, "-m", "pip", "install", "tomli"])
+          PY
+      - name: Run audit
+        run: |
+          python3 repo_audit.py
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-audit-report
+          path: |
+            repo_report.md
+            audit/report.json

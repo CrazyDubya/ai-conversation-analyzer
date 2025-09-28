@@ -59,6 +59,10 @@ reports/
 heatmaps/
 visualizations/
 
+# Repository Audit outputs
+repo_report.md
+audit/
+
 # Logs
 *.log
 logs/
