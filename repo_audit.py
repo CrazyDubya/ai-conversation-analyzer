@@ -564,13 +564,9 @@ def write_report(root: Path,
 # ----------------------------
 # Main
 # ----------------------------
-files_glob: Dict[str, FileInfo] = {}
-
 def main():
-    global files_glob
     root = Path(".").resolve()
     files = scan_files(root)
-    files_glob = files
     proj = detect_project(root, files)
     graph = build_graph(root, files)
     entrypoints = detect_entrypoints(root, files, proj)
