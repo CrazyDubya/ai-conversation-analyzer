@@ -80,14 +80,20 @@ def load_json_safe(path: Path):
 
 def load_toml(path: Path):
     try:
+        import tomllib  # py311+
         try:
-            import tomllib  # py311+
             return tomllib.loads(path.read_text(encoding="utf-8", errors="ignore"))
         except Exception:
+            return None
+    except ImportError:
+        try:
             import tomli  # type: ignore
-            return tomli.loads(path.read_text(encoding="utf-8", errors="ignore"))
-    except Exception:
-        return None
+            try:
+                return tomli.loads(path.read_text(encoding="utf-8", errors="ignore"))
+            except Exception:
+                return None
+        except ImportError:
+            return None
 
 def norm_relpath(p: Path, root: Path) -> str:
     return str(p.relative_to(root).as_posix())
