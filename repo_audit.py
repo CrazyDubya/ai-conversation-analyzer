@@ -49,6 +49,7 @@ def is_binary_file(path: Path) -> bool:
             if b"\x00" in chunk:
                 return True
             # Heuristic: non-text ratio
+            # ASCII control characters: 7=BEL, 8=BS, 9=TAB, 10=LF, 12=FF, 13=CR, 27=ESC
             textchars = bytearray({7,8,9,10,12,13,27} | set(range(0x20, 0x100)))
             nontext = chunk.translate(None, textchars)
             return len(nontext) / max(1, len(chunk)) > 0.30
