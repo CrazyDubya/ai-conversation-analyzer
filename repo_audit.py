@@ -364,7 +364,9 @@ def detect_entrypoints(root: Path, files: Dict[str, FileInfo], proj: ProjectInfo
                     eps.add(rel)
                     break
         # scripts referencing node entry files
-        scripts = proj.package_json.get("scripts", {}) if isinstance(proj.package_json.get("scripts", {}), dict) else {}
+        scripts = proj.package_json.get("scripts", {})
+        if not isinstance(scripts, dict):
+            scripts = {}
         for cmd in scripts.values():
             if not isinstance(cmd, str):
                 continue
